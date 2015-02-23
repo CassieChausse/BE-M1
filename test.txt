@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-azerty
-Marine
-essai blabla
-=======
-azerty - BONJOUR
-Marine
->>>>>>> origin/master
