@@ -1,0 +1,1 @@
+egrep "@" EM.Ind > EM.Filtre
