@@ -1,0 +1,3 @@
+SW=sport* AND (SW=entert* OR SW=coach* OR SW=mental*) AND (NOT SW=handic* AND NOT SW=child* AND NOT SW=enf* AND NOT SW=dop* AND NOT SW=hosp* AND NOT SW=hopita* AND NOT SW=adolesc* AND NOT SW=colleg* AND NOT SW=lyc* AND NOT SW=infect*)
+
+(sport*[Title] OR coach*[Title]) AND sport*[Text Word] AND (entert*[Text Word] OR coach*[Text Word] OR mental*[Text Word]) 
