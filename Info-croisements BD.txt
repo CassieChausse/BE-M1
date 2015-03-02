@@ -1,0 +1,80 @@
+Croisements intéressants :
+
+Réseaux sociaux : Auteur-Auteur Auteur-Organisation (université, ...)
+
+Réseaux sémantiques : Mots-clés-Mots-clés / Mots-clés-Date -> Mots-Nouveaux-Mots-Nouveaux
+			Multi-Termes (Titre, Abstract) entre eux et idem avec date
+
+Géostratégie : Monde/Continents, zoom sur US, Chine, Brésil (pays émergent)
+
+Tout étudier en évolutif (réseaux sociaux, sémantiques, géographique) ex: Au x Au x Dp
+
+
+Bases de données :
+
+PubPsych : 668 réponses
+
+  variables :
+	ID 
+	TI : titre
+	AU : Auteur
+	CS : Lieux des auteurs
+	COU : Pays des auteurs
+	QUWWW1 : Source
+	QUWWW2 : Source
+	QUWWW3 : Source
+	URLI : Url du document
+	PY : Date
+	LA : Langue
+	ABHR : résumé
+	SHE : classification
+	CTEH : Mots-clés Anglais    +++++
+	CTEL : Mots-clés Anglais   ++++++
+	CTDL : Mots-clés Allemands
+	CTDH : Mots-clés Allemands
+	ITEH : Mots-clés Anglais   +++++
+	ITFL : Mots-clés Français
+	ITSL : Mots-clés Espagnol
+	AGER : Mots-clés Anglais
+	DB : Source de données
+
+Croisements intéressants :
+	AU - PY
+	PY - PY
+	LA - PY
+	PY - ITEL
+
+
+PubMed : 1097 réponses
+
+  variables :
+	PMID : 
+	OWN : ?
+	STAT : ?
+	DA : ?
+	LR : ?
+	IS : ?
+	IS : ?
+	DP : Date publication
+	TI : Titre
+	LID : Référence
+	AB : Résumé 
+	CI : 
+	FAU : Auteur avec virgule 
+	AU : Auteur
+	AD : Lieux Auteur
+	LA : Langue
+	DEP : ? 
+	TA : 
+	JT : 
+	JID : 
+	OTO : 
+	OT : Mot-clés
+	EDAT : 
+	MHDA : 
+	CRDT : 
+	PHST : 
+	AID : 
+	PST : 
+	SO : 
+	

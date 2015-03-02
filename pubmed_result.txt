@@ -1,3 +1,5 @@
+﻿/// Réponses = 1097 /////////////////////////
+
 
 PMID- 25648198
 OWN - NLM
@@ -39,7 +41,7 @@ AU  - Liukkonen J
 LA  - ENG
 PT  - JOURNAL ARTICLE
 DEP - 20150203
-TA  - Scand J Med Sci Sports
+TA  - Scand J Med Sci Sports	
 JT  - Scandinavian journal of medicine & science in sports
 JID - 9111504
 OTO - NOTNLM
