@@ -15,10 +15,11 @@ foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) {
 	$i++;
 	$chaine = "$i";
 	#move($fichier, $rep) or die  "move failed: $!";
-	copy( $fichier, $rep.'\\'.$chaine.'.html') or die  "Copy failed: $!"; #au lieu de lama mettre un nombre à incrémenter
-	print "OK";
+	copy( $fichier, $rep.'\\'.$chaine.'.html') or die  "Copy failed: $!";
+	print "OK\n";
   }
-} 
+}
+print("\n FIN : $i fichiers récupérés"); 
   
 #====================================================== 
 # Nombre d'arguments : 1 ou 2 
