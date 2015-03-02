@@ -7,11 +7,15 @@ use  File::Copy  qw/move/;
 # /home et /tmp sont sur deux disques différents
 my $i = 0;
 my $chaine = "$i";
-my $rep = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\Fichier index'; #dossier de destination des index.html
-my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\Test PERL'; #dossier où on va chercher les index.html
+#my $rep = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\Fichier index'; #dossier de destination des index.html
+my $rep = 'C:\Users\Marine\Documents\cmi\M1\BE\BE-M1\index';
+#my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\Test PERL'; #dossier où on va chercher les index.html
+my $repertoire = 'C:\Users\Marine\Desktop\www.psychologiesport.fr';
 foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
   my $longueur = (length($fichier) - 10) < 0 ? 0 : (length($fichier)-10);
-  if(substr($fichier,$longueur) eq "index.html") {
+  if(substr($fichier,$longueur) eq "index.html" & !($fichier =~ m/feed/)) {
+	#print($fichier);
+	#print("\n");
 	$i++;
 	$chaine = "$i";
 	#move($fichier, $rep) or die  "move failed: $!";
@@ -19,7 +23,7 @@ foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) {
 	print "OK\n";
   }
 }
-print("\n FIN : $i fichiers récupérés"); 
+print("\n FIN : $i fichiers recuperes"); 
   
 #====================================================== 
 # Nombre d'arguments : 1 ou 2 
