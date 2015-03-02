@@ -12,10 +12,10 @@ Résultat: 1
  PY:	1991
  LA:	English
  ABHR:	Four steps help coaches implement a mental imagery program to improve their athletes' performance and emotional control: evaluate athletes' imaging ability; provide an imaging warm-up; integrate the senses; and use goal achievement strategies. The article notes that imagery skills must be maintained and practiced consistently. (SM)
- CTEH:	Athletes - Emotional Response - Self Control - Sport Psychology
- CTEL:	Athletic Coaches - Higher Education - Physical Education - Secondary Education - Sportsmanship
+ CTEH:	 CTEL:	Athletic Coaches - Higher Education - Physical Education - Secondary Education - Sportsmanship
  ITEH:	Emotional Control - Mental Imagery
- DB:	ERIC
+ DB:Athletes - Emotional Response - Self Control - Sport Psychology
+	ERIC
 
 Résultat: 2
  ID:	ACCNO_EJ982582
