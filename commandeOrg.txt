@@ -1,0 +1,2 @@
+egrep -i "College|Univers|hopital|Institut|Centre|Center|Hospital" AD.ind > CO.Filtre
+Norwegian School of Sport Sciences
