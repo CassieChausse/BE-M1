@@ -59,7 +59,8 @@ PubMed : 1097 réponses
 	LR : ?
 	IS : ?
 	IS : ?
-	DP : Date publication
+	DP : Date publication  (Enlevé : Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Fall
+				Séparateur : - 	
 	TI : Titre
 	LID : Référence
 	AB : Résumé 
@@ -74,6 +75,7 @@ PubMed : 1097 réponses
 	JID : 
 	OTO : 
 	OT : Mot-clés
+	MH : Mots-clés
 	EDAT : 
 	MHDA : 
 	CRDT : 
