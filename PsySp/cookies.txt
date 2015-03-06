@@ -1,0 +1,28 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.venere.com	TRUE	/	FALSE	1999999999	s_ts	1425292293
+.dopage.com	TRUE	/	FALSE	1999999999	-dopage-com	f86c0d78111c582f09ff65f636d721bf
+www.trans-faire.fr	TRUE	/	FALSE	1999999999	PHPSESSID	9mnqab5eupqkp7188rkg1p3vc2
+www.antoineauriol.com	TRUE	/	FALSE	1999999999	is_mobile	0
+.dailymotion.com	TRUE	/	FALSE	1999999999	ts	372793
+.dailymotion.com	TRUE	/	FALSE	1999999999	dmvk	54f43c24790a8
+www.dailymotion.com	TRUE	/	FALSE	1999999999	referer	404
+www.dailymotion.com	TRUE	/	FALSE	1999999999	sc_ratio	25
+.dailymotion.com	TRUE	/	FALSE	1999999999	v1st	61BBCFA8A7DF81B1
+www.kinesport.info	TRUE	/	FALSE	1999999999	DYNSRV	h07
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	25KisVMscAI
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	cJU7U7ValYc
+.youtube.com	TRUE	/	FALSE	1999999999	PREF	f1=50000000
+.youtube.com	TRUE	/	FALSE	1999999999	GEUP	2fbe0cf3197127de5d4fed66197fbb40aQIAAAA=
+www.psychologiesport.com	TRUE	/	FALSE	1999999999	SessionID	a587594b-dc81-4a59-b06c-02b4143e4d6a
+www.psychologiesport.com	TRUE	/	FALSE	1999999999	VisitorID	80775a6d-76a0-4323-83f2-066065320c75&Exp=3/2/2018 2:32:19 AM
+.itftennis.com	TRUE	/	FALSE	1999999999	visid_incap_178373	MGacM3npTIaKGnIMt4EOOTM89FQAAAAAQUIPAAAAAAAmpbovpo5as5qsFlmthbOv
+.itftennis.com	TRUE	/	FALSE	1999999999	incap_ses_187_178373	/0IvIKrdO0ayVQUVFVyYAjM89FQAAAAARLZCTQQ4UOicjoJCZ4fGPg==
+.amazon.fr	TRUE	/	FALSE	1999999999	x-wl-uid	13WYeqHg7n2mhi2ZWb2p07+EuwhnvS/X4FBbIiMQqicv38X4FK7DKi0MhTURdcEJzOewdQblBUTY=
+.amazon.fr	TRUE	/	FALSE	1999999999	UserPref	wcJL1FLXI2lClJqBmvlTsju9x6XqrX35wOCYe83NjlcezMxKzg4Mjr8RDl26floCi+a4/Pu66F9SVg42tiDa4osb/WxWjFB+kKEnDsqiHAieTBDVqlgpgNIsJlT6AJFDlzLzZafepfeNS58sA4GxV4CY23IcZ59I1+RsBHuj6WVCDQdwU9c7tFt1/0t8isx+RNYAwohH4nu2o5LjIi3lknt95o1XwS4vUGjo+rRpeXAvwGHQxpMR7l/2dIK3CxQvQ/Fx7iIHM9kBzHOxoCv/eIIvj23qb1dEMKX4Wj7PaccdxAlkyhwKiTgWiHJabjsam54ho6TVPlztadZZGu+ugIQFK/hM8jLmX0f7vMr2SVQ2l47RkdfaPnjlaNSOyo1pCt5ivKF2nNIeWEYIqum4a+Bwyxo86kkqoxoaqb5KFyVUeq6QFttnKMybVcz/9RXFW3dP6VoSazqOr6yinBxvoQ==
+.amazon.fr	TRUE	/	FALSE	1999999999	ubid-acbfr	280-8852608-1472965
+.amazon.fr	TRUE	/	FALSE	1999999999	session-id-time	2082754801l
+.amazon.fr	TRUE	/	FALSE	1999999999	session-id	275-1438664-2356369
+www.soyez-pro-et-osez.com	TRUE	/	FALSE	1999999999	PHPSESSID	utcv2cas5lruerebqr95c2imt1
+.slate.fr	TRUE	/	FALSE	1999999999	__cfduid	d46e7ca665644c2229e10333cd4beae261425292356
+
