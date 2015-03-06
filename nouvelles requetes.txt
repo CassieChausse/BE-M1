@@ -6,3 +6,12 @@ SW=sport* AND (SW=entert* OR SW=coach* OR SW=mental*) AND (NOT SW=handic* AND NO
 sport* AND (entert* OR coach* OR mental*) AND NOT (handic* AND child* 
 AND enf* AND dop* AND hosp* AND hopita* 
 AND adolesc* AND colleg* AND lyc* AND infect*)
+
+
+
+
+
+///// Réponses = 668 /////////////
+
+Fiche créée: mar., 24 févr. 2015 17:19:26  CEST
+Sélection: rechercher des enregistrements SW=sport* AND (SW=entert* OR SW=coach* OR SW=mental*) AND (NOT SW=handic* AND NOT SW=child* AND NOT SW=enf* AND NOT SW=dop* AND NOT SW=hosp* AND NOT SW=hopita* AND NOT SW=adolesc* AND NOT SW=colleg* AND NOT SW=lyc* AND NOT SW=infect*) (668 Résultats)
