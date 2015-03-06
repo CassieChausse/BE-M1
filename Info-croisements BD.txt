@@ -66,7 +66,7 @@ PubMed : 1097 réponses
 	CI : 
 	FAU : Auteur avec virgule 
 	AU : Auteur
-	AD : Lieux Auteur
+	AD : Lieux Auteur NETTOYE
 	LA : Langue
 	DEP : ? 
 	TA : 
