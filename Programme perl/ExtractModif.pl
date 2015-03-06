@@ -7,16 +7,28 @@ if ( !open(OUT, ">>$ARGV[0]") ) {
   exit(0);
 }
 
-my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index';
-foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
-  if ( !open(IN, "$fichier") ) {
-	print " Erreur d'ouverture de $fichier \n"; 
+#my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index';
+#foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
+  #if ( !open(IN, "$fichier") ) {
+  if ( !open(IN, "test.html") ) {
+	print " Erreur d'ouverture de test.html \n"; 
 	exit(0);	
   }
-  print OUT "\n"; # separateur de notices 
-  $p = HTML::TokeParser->new("$fichier") || die "Can't open: $!";
+  #print OUT "\n"; # separateur de notices 
+  $p = HTML::TokeParser->new("test.html") || die "Can't open: $!";
   &parse_meta_tags;          # lecture des META TAGS.
-}
+  while(<IN>) {
+	if(my @liste = ($_ =~ m@<article[^>]*>(.*)</article>@)) {
+		#On a tout ce qui se trouve entre <article> et </article>
+		#On va retirer toutes les balises
+		print OUT "test.html\n";
+			foreach my $ligne (@liste) {
+				print OUT "$ligne \n";
+			}
+		close(OUT);
+	}
+  }
+#}
 
 sub parse_meta_tags {
   &parse_title;            # lecture du Titre du document.
@@ -42,12 +54,12 @@ sub parse_title {
     $title =~ s/ú|û|ù|ü/u/g; 
     $Data =~ s/
 //g;
-    print OUT "TI-: $title"; 
+    print OUT "\nTI-: $title"; 
   }
 }
 
 close(IN);
-close(OUT);
+#close(OUT);
 
 #====================================================== 
 # Nombre d'arguments : 1 ou 2 
