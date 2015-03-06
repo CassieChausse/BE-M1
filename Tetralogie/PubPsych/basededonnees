@@ -1,0 +1,12 @@
+PMID-
+# descripteurs des champs de la base PUBPSYCK format MEDLINE TXT #
+# nom      abrev  champ       visible  Separateurs #
+Titre        TI     TI:         True   s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"
+Auteur       AU     AU:         True   "
+Pays         PA     COU:         True  -"
+Date-publi   DP     PY:         True   "
+Langue       LA     LA:         True  ;"
+Resume       AB     ABHR:         True   s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"
+ID           ID     ID:         False  "
+MCE           CTEH     CTEH:         True  -"
+FIN          FIN    FIN        FIN    -"
