@@ -1,0 +1,14 @@
+﻿Résumé:
+# descripteurs des champs de la base PUBMED format MEDLINE TXT #
+# nom      abrev  champ       visible  Separateurs #
+Adresse	     AD     AD         True   ",";"."/"
+Titre        TI     Titre:         True   s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"
+#MotsCles       OT     Identificateur (mot clé):         True   "
+Auteur       AU     Auteur:         True   "
+Pays         PA     Lieu:         True   ,b".b";b".\n",".";"\n"
+Date-publi   DP     DP         True   b"ORD1"
+Langue       LA     LA         True  ;"
+Type_doc     TD     PT         True   "
+Resume       AB     Résumé:         True   s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"
+Pays-publi   CP     CP         True  "
+FIN          FIN    FIN        FIN    -"
