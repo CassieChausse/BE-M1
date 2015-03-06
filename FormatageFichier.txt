@@ -1,0 +1,8 @@
+Nettoyage fichier 15-PsySp-PP.not :
+	Enlever les espaces avant les noms des champs + Remplacer la tabultaion par un espace après le nom des champs
+	
+Nettoyage fichier basededonnees :
+	Remplacer PMID- par Résultat
+
+Mots clés anglais :
+	Remplacer ITEL - ITEH - AGER - CTEL par CTEH.
