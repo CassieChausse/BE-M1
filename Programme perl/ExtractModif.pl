@@ -7,28 +7,34 @@ if ( !open(OUT, ">>$ARGV[0]") ) {
   exit(0);
 }
 
-#my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index';
-#foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
-  #if ( !open(IN, "$fichier") ) {
-  if ( !open(IN, "test.html") ) {
-	print " Erreur d'ouverture de test.html \n"; 
+my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index2';
+foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
+  if ( !open(IN, "$fichier") ) {
+  #if ( !open(IN, "test.html") ) {
+	print " Erreur d'ouverture de $fichier \n"; 
 	exit(0);	
   }
+  print OUT "------------------------------------------------------\n";
+  print OUT "FICHIER : $fichier";
   #print OUT "\n"; # separateur de notices 
-  $p = HTML::TokeParser->new("test.html") || die "Can't open: $!";
+  $p = HTML::TokeParser->new("$fichier") || die "Can't open: $!";
   &parse_meta_tags;          # lecture des META TAGS.
   while(<IN>) {
 	if(my @liste = ($_ =~ m@<article[^>]*>(.*)</article>@)) {
 		#On a tout ce qui se trouve entre <article> et </article>
 		#On va retirer toutes les balises
-		print OUT "test.html\n";
 			foreach my $ligne (@liste) {
-				print OUT "$ligne \n";
+				$ligne =~ s/<[^<]*>/-/g;
+				print OUT "\nAR : $ligne";
 			}
-		close(OUT);
+		#close(OUT);
 	}
+	
   }
-#}
+  print OUT "\n";
+  close(IN);
+}
+close(OUT);
 
 sub parse_meta_tags {
   &parse_title;            # lecture du Titre du document.
