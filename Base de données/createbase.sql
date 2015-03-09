@@ -1,0 +1,26 @@
+DROP TABLE AUTEUR;
+DROP TABLE PAYS;
+DROP TABLE DATE_PUBLI;
+DROP TABLE MOTS_CLES;
+DROP TABLE ORGANISME;
+
+CREATE TABLE AUTEUR (
+		num_auteur NUMBER,
+		nom_auteur VARCHAR2(30));
+		
+CREATE TABLE PAYS (
+		num_pays NUMBER,
+		nom_pays VARCHAR2(20));
+		
+CREATE TABLE DATE_PUBLI (
+		num_date NUMBER,
+		date DATE));
+		
+CREATE TABLE MOTS_CLES (
+		num_mot_cles NUMBER,
+		mot_cles VARCHAR2(30));
+		
+CREATE TABLE ORGANISME (
+		num_orga NUMBER,
+		nom_orga VARCHAR2(30));
+		
