@@ -1,0 +1,202 @@
+RESULTATS DU MARKOV CLUSTERING
+******************************
+
+
+Cluster 0
+**********
+
+kroshus e
+sherman rt
+thompson ra
+sundgot-borgen j
+mccauley hl
+tancredi dj
+silverman jg
+decker mr
+austin sb
+miller e
+
+Cluster 1
+**********
+
+finch cf
+donaldson a
+white pe
+sullivan sj
+lee h
+poulos rg
+newton jd
+ewing mt
+makdissi m
+
+Cluster 2
+**********
+
+ntoumanis n
+gucciardi df
+lonsdale c
+guagliano jm
+rosenkranz rr
+kolt gs
+jackson b
+dimmock ja
+mallett cj
+
+Cluster 3
+**********
+
+harvey jt
+eime rm
+payne wr
+telford a
+mooney a
+young ja
+charity mj
+
+Cluster 4
+**********
+
+herring sa
+rivara fp
+schiff ma
+chrisman sp
+chung sk
+guskiewicz km
+
+Cluster 5
+**********
+
+roi gs
+cicognani e
+mazzoni d
+totti v
+mosconi g
+nanni costa a
+
+Cluster 6
+**********
+
+sekulic d
+zenic n
+uljevic o
+kondric m
+rodek j
+
+Cluster 7
+**********
+
+collins d
+martindale a
+martindale r
+nash c
+
+Cluster 8
+**********
+
+boen f
+de cuyper b
+vande broek g
+
+Cluster 9
+**********
+
+billaut f
+gore cj
+aughey rj
+
+Cluster 10
+**********
+
+visek aj
+harris bs
+blom lc
+
+Cluster 11
+**********
+
+davids k
+renshaw i
+araujo d
+
+Cluster 12
+**********
+
+jowett s
+chan dk
+davis l
+
+Cluster 13
+**********
+
+hutzler y
+barak s
+
+Cluster 14
+**********
+
+elbin rj
+covassin t
+
+Cluster 15
+**********
+
+siekanska m
+blecharz j
+
+Cluster 16
+**********
+
+richards j
+foster c
+
+Cluster 17
+**********
+
+tenenbaum g
+schinke rj
+
+Cluster 18
+**********
+
+merkel dl
+molony jt jr
+
+Cluster 19
+**********
+
+maszczyk a
+
+Cluster 20
+**********
+
+hancock dj
+
+Cluster 21
+**********
+
+eys ma
+
+Cluster 22
+**********
+
+pollock n
+
+Cluster 23
+**********
+
+martin ginis ka
+
+Cluster 24
+**********
+
+fletcher d
+
+Cluster 25
+**********
+
+carless d
+
+Cluster 26
+**********
+
+mesquita i
