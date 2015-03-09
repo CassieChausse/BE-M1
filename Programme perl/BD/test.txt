@@ -1,1 +1,114 @@
- PMID- 25648198	lama OWN - NLM STAT- Publisher DA  - 20150204 LR  - 20150205 IS  - 1600-0838 (Electronic) IS  - 0905-7188 (Linking) DP  - 2015 Feb 3 TI  - Motivational climate, goal orientation, perceived sport ability, and enjoyment within Finnish junior ice hockey players. LID - 10.1111/sms.12410 [doi] AB  - The aim of this study was to investigate the relations among situational       motivational climate, dispositional approach and avoidance achievement goals,       perceived sport ability, and enjoyment in Finnish male junior ice hockey players.       The sample comprised 265 junior B-level male players with a mean age of 17.03       years (SD = 0.63). Players filled questionnaires tapping their perceptions of       coach motivational climate, achievement goals, perceived sport ability, and       enjoyment. For the statistical analysis, players were divided into high and low       perceived sport ability groups. Multigroup structural equation modeling (SEM)       revealed an indirect path from task-involving motivational climate via       task-approach goal to enjoyment. Additionally, SEM demonstrated four other direct       associations, which existed in both perceived ability groups: from ego-involving        motivational climate to ego-approach and ego-avoidance goals; from ego-approach       goal to ego-avoidance goal; and from task-avoidance goal to ego-avoidance goal.       Additionally, in the high perceived sport ability group, there was an association       from task-involving motivational climate to enjoyment. The results of this study        reveal that motivational climate emphasizing effort, personal development and       improvement, and achievement goal mastering tasks are significant elements of       enjoyment in junior ice hockey. CI  - (c) 2015 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd. FAU - Jaakkola, T AU  - Jaakkola T AD  - Department of Sport Sciences, University of Jyvaskyla, Jyvaskyla, Finland. FAU - Ntoumanis, N AU  - Ntoumanis N FAU - Liukkonen, J AU  - Liukkonen J LA  - ENG PT  - JOURNAL ARTICLE DEP - 20150203 TA  - Scand J Med Sci Sports	 JT  - Scandinavian journal of medicine & science in sports JID - 9111504 OTO - NOTNLM OT  - Motivational climate OT  - achievement goals OT  - enjoyment OT  - sport ability OT  - youth sports EDAT- 2015/02/05 06:00 MHDA- 2015/02/05 06:00 CRDT- 2015/02/05 06:00 PHST- 2014/12/15 [accepted] AID - 10.1111/sms.12410 [doi] PST - aheadofprint SO  - Scand J Med Sci Sports. 2015 Feb 3. doi: 10.1111/sms.12410.  PMID- 25631930 OWN - NLM STAT- Publisher DA  - 20150129 LR  - 20150130 IS  - 1439-6327 (Electronic) IS  - 1439-6319 (Linking) DP  - 2015 Jan 29 TI  - Factors to consider when assessing diurnal variation in sports performance: the       influence of chronotype and habitual training time-of-day. AB  - PURPOSE: The aim of this study was to compare morning and evening time-trial       performance, RPE and mood state of trained swimmers, taking into account       chronotype, habitual training time-of-day and PERIOD3 (PER3) variable number       tandem repeat genotype. METHODS: Twenty-six swimmers (18 males, age: 32.6 +/- 5.7       years) swam 200 m time trials (TT) at 06h30 and 18h30 in a randomised order.       RESULTS: There was no difference between morning and evening performance when the       swimmers were considered as a single group (06h30: 158.8 +/- 22.7 s, 18h30: 158.5       +/- 22.0 s, p = 0.611). However, grouping swimmers by chronotype and habitual       training time-of-day allowed us to detect significant diurnal variation in       performance, such that morning-type swimmers and those who habitually train in       the morning were faster in the 06h30 TT (p = 0.036 and p = 0.011, respectively).        This was accompanied by lower ratings of perceived exertion (RPE) scores       post-warm-up, higher vigour and lower fatigues scores prior to the 06h30 TT in       morning-type swimmers or those who trained in the morning. Similarly, neither       types and those who trained in the evenings had lower fatigue and higher vigour       prior to the 18h30 TT. CONCLUSIONS: It appears that both chronotype and habitual        training time-of-day need to be considered when assessing diurnal variation in       performance. From a practical point of view, athletes and coaches should be aware       of the potentially powerful effect of training time on shifting time-of-day       variation in performance. FAU - Rae, Dale E AU  - Rae DE AD  - MRC/UCT Research Unit for Exercise Science and Sports Medicine, Faculty of Health       Sciences, University of Cape Town, Cape Town, South Africa, Dale.Rae@uct.ac.za. FAU - Stephenson, Kim J AU  - Stephenson KJ FAU - Roden, Laura C AU  - Roden LC LA  - ENG PT  - JOURNAL ARTICLE DEP - 20150129 TA  - Eur J Appl Physiol JT  - European journal of applied physiology JID - 100954790 EDAT- 2015/01/30 06:00 MHDA- 2015/01/30 06:00 CRDT- 2015/01/30 06:00 PHST- 2014/07/15 [received] PHST- 2015/01/13 [accepted] PHST- 2015/01/29 [aheadofprint] AID - 10.1007/s00421-015-3109-9 [doi] PST - aheadofprint SO  - Eur J Appl Physiol. 2015 Jan 29.
+
+What a difference a “Mentally Toughening” year makes: The acculturation of a rookie.
+
+http://search.proquest.com/docview/1634753832?accountid=16511
+
+Résumé: Objectives: This study investigated how one subculture's norms, traditions, ideals, and imperatives influenced the attitudes, beliefs, emotions, and behaviours of a young athlete (Joe) as he moved from resistance to acculturation. Design: Longitudinal case study of one athlete in one specific sport subculture. Method: Joe took part in five open-ended in-depth interviews over a 14-month period to investigate his experiences as an elite athlete within an Australian football team. Joe's story was analysed through an acculturation-process lens and models on mental toughness, overtraining, and stress-recovery to evaluate the indoctrination of one athlete. Findings: During the initial interviews Joe resisted the subculture demands of the football club and tried to find success by maintaining his own beliefs. By the end of the 14-month study Joe had realised that to be successful in the club he needed to embrace the norms, traditions, ideals, and imperatives of the football culture. Joe gained acceptance at the club when he eventually internalised the hypermasculine subculture and ignored injury, played in pain, subjugated his interests for football, and viewed physical abuse as a positive and necessary part of the toughening process. Conclusion: Joe's case study demonstrates that the subcultural ideals of mental toughness mean ignoring injury, playing in pain, denying emotion and vulnerability, and sacrificing individuality, which inevitably lead to stress/recovery imbalance and overtraining. In this subculture, demonstrating mental toughness is similar to a hypermasculine environment typified by slogans such as no-pain-no-gain and rest-is-for-the-dead where success is more important than individual wellbeing. (PsycINFO Database Record (c) 2015 APA, all rights reserved)(journal abstract)
+
+Liens: http://BY4BU7LN5E.search.serialssolutions.com/?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Apsycinfo&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=article&amp;rft.jtitle=Psychology+of+Sport+and+Exercise&amp;rft.atitle=What+a+difference+a+%E2%80%9CMentally+Toughening%E2%80%9D+year+makes%3A+The+acculturation+of+a+rookie.&amp;rft.au=Tibbert%2C+Stephanie+J.%3BAndersen%2C+Mark+B.%3BMorris%2C+Tony&amp;rft.aulast=Tibbert&amp;rft.aufirst=Stephanie&amp;rft.date=2015-03-01&amp;rft.volume=17&amp;rft.issue=&amp;rft.spage=68&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=Psychology+of+Sport+and+Exercise&amp;rft.issn=14690292&amp;rft_id=info:doi/10.1016%2Fj.psychsport.2014.10.007
+
+Adresse de courriel de l'auteur: mark.andersen@hh.se
+
+Auteur: Tibbert, Stephanie J.1; Andersen, Mark B.2; Morris, Tony11 College of Sport and Exercise Science, Institute for Sport, Exercise and Active Living, Victoria University, Melbourne, VIC, Australia2 Centre for Research on Welfare, Health, and Sport, Halmstad University, Halmstad, Sweden mark.andersen@hh.se
+
+Base de données: PsycINFO
+
+Date de publication: Mar 2015
+
+Date de publication: 08 déc. 2014 (PsycINFO)
+
+ID de document ProQuest: 1634753832
+
+ISSN: 1469-0292
+
+Identificateur (mot clé): Cultural influences Mental toughness Overtraining Traditions Norms
+
+Langue: Anglais
+
+Lieu: Australia
+
+Méthodologie: Empirical Study, Longitudinal Study, Interview, Quantitative Study
+
+Sujet: Acculturation (principal); Athletes (principal); Resistance (principal); Sport Psychology (principal); Emotions; Football
+
+Titre: What a difference a “Mentally Toughening” year makes: The acculturation of a rookie.
+
+Type de document: Journal, Peer-reviewed Journal, Journal Article
+
+____________________________________________________________
+
+Shared mental task models in elite ice hockey and handball teams: Does it exist and how does the coach intervene to make an impact?
+
+http://search.proquest.com/docview/1648595746?accountid=16511
+
+Résumé: We investigated whether a shared mental model is present in elite ice hockey and handball teams. In total, 231 male players participated in the study. Shared mental models were found to exist. Relationships between shared mental models and coaching efforts to develop a general training shared mental model and an opponent-specific model were explored. The relationship between role clarity and shared mental model, general training shared mental model, and opponent-specific model was positive. The shared mental model is a useful construct for analyzing elite team practice and coaching behavior. Coaches and sport psychologists should be aware that establishing a shared mental model in elite teams is essential in facilitating performance. (PsycINFO Database Record (c) 2015 APA, all rights reserved)(journal abstract)
+
+Liens: http://BY4BU7LN5E.search.serialssolutions.com/?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Apsycinfo&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Applied+Sport+Psychology&amp;rft.atitle=Shared+mental+task+models+in+elite+ice+hockey+and+handball+teams%3A+Does+it+exist+and+how+does+the+coach+intervene+to+make+an+impact%3F&amp;rft.au=Giske%2C+Rune%3BRodahl%2C+Stein+E.%3BH%C3%B8igaard%2C+Rune&amp;rft.aulast=Giske&amp;rft.aufirst=Rune&amp;rft.date=2015-01-01&amp;rft.volume=27&amp;rft.issue=1&amp;rft.spage=20&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=Journal+of+Applied+Sport+Psychology&amp;rft.issn=10413200&amp;rft_id=info:doi/10.1080%2F10413200.2014.940431
+
+Sujet: Coaches (principal); Experience Level (principal); Mental Models (principal); Sports (principal); Teams
+
+Classification: 3720: Sports
+
+Âge: Adolescence (13-17 yrs) Adulthood (18 yrs & older) Young Adulthood (18-29 yrs) Thirties (30-39 yrs)
+
+Population: Human Male
+
+Lieu: Norway
+
+Identificateur (mot clé): mental models ice hockey handball teams sport psychologists intervention
+
+Test et mesure: Role Ambiguity Scale-Adapted Version
+
+Méthodologie: Empirical Study, Quantitative Study
+
+Titre: Shared mental task models in elite ice hockey and handball teams: Does it exist and how does the coach intervene to make an impact?
+
+Auteur: Giske, Rune1; Rodahl, Stein E.2; Høigaard, Rune31 University of Stavanger, Stavanger, Norway rune.giske@uis.no2 University of Nordland, Norway3 University of Agder, Norway
+
+Adresse de courriel de l'auteur: rune.giske@uis.no
+
+Contacter la personne: Giske, Rune, Department of Education and Sport Science, University of Stavanger, Stavanger, 4036, Norway, rune.giske@uis.no
+
+Publication: Journal of Applied Sport Psychology
+
+Volume: 27
+
+Numéro: 1
+
+Pages: 20-34
+
+Date de publication: Jan 2015
+
+Format pris en charge: Electronic
+
+Éditeur: Taylor & Francis (,   United Kingdom )
+
+ISSN: 1041-3200
+
+eISSN: 1533-1571
+
+Revu par les pairs: Oui
+
+Langue: Anglais
+
+Type de document: Journal, Peer-reviewed Journal, Journal Article
+
+Nombre de références: 46
+
+Historique des publications : 
+
+   Date d'acceptation: 27 juin 2014
+
+   Date de première soumission: 22 nov. 2013
+
+DOI: http://dx.doi.org/10.1080/10413200.2014.940431
+
+Date de publication: 26 janv. 2015 (PsycINFO)
+
+Numéro d'inventaire: 2014-57281-002
+
+ID de document ProQuest: 1648595746
+
+URL du document: http://search.proquest.com/docview/1648595746?accountid=16511
+
+Base de données: PsycINFO

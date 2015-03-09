@@ -1,9 +1,9 @@
 #!/usr/bin/perl 
 
 
-#######################
-if ( !open(OUT, ">>Fusion.txt") ) {
-  print " Erreur d'ouverture de Fusion.txt \n"; 
+####################### BD PUBPSYCH #######################
+if ( !open(OUT, ">>FusionPP.txt") ) {
+  print " Erreur d'ouverture de FusionPP.txt \n"; 
   exit(0);
 }
 
@@ -14,58 +14,47 @@ if ( !open(IN, "test.txt") ) {
 $indent = 0;
 while(<IN>) {
 	#Incrémentation pour la clé primaire
-	$indent++;
 	#print OUT ("DEBUT\t- PU$indent \n");
-	if($_ =~ /(.)*-/) {
-		$ligne = $1;
-		print ("INDENT : $indent");
-		if($ligne = "PMID") {
-			#On remplace par l'incrément
-			$_ =~ s/PMID\s*-.*/PMID - $indent/;
-			print OUT ("$_ \n");;
-			#print OUT "LIGNE";
-		} elsif ($ligne ="TI") {
-			
-		} elsif ($ligne = "AU") {
-		
-		} elsif ($ligne = "DP") {
-		
-		} elsif ($ligne = "LA") {
-		
-		} elsif ($ligne = "AB") {
-		
-		} elsif ($ligne = "OT" or $ligne = "MH") {
-		
-		} elsif ($ligne = "AD") {
-		
-		} else {
-			$i = 2; #autre truc à ne pas afficher
-		}
-	} else {
-		#ligne vide à afficher
-		if(!($i=2)) {
-			#on affiche la ligne
-			print OUT ("$_ \n");
-		}
+	if($_ =~ /Résultat:/) {
+		$indent++;
+		print OUT ("------------------------------------\n");
+		print OUT ("PMID : $indent \n");
+	} elsif ($_ =~ /ID:/) {
+		print OUT ("$_ \n");
+	} elsif ($_ =~ /TI:/) {
+		print OUT ("$_ \n");
+	} elsif ($_ =~ /CTEH:\s*(.*)/) {
+		print OUT ("CTECH : $1 \n");
 	}
 }
 
-	#Titre - TI
-	
-	#Auteur - AU
-	
-	#DP -> DA
-	
-	#Langue - LA
-	
-	#AB
-	
-	#OT/MH
-	
-	#AD
-	
-	#if(@resultat = ($_ =~ m/PMID(.*)/g)) {
-	#	foreach $ligne (@resultat) {
-	#		print OUT "LIGNE : $ligne \n";
-	#	}
-	#}
+close(OUT);
+close(IN);
+
+####################### BD PQ #######################
+if ( !open(OUT, ">>FusionPQ.txt") ) {
+  print " Erreur d'ouverture de FusionPQ.txt \n"; 
+  exit(0);
+}
+
+if ( !open(IN, "test.txt") ) {
+	print " Erreur d'ouverture de test.txt \n"; 
+	exit(0);	
+}
+$indent = 0;
+while(<IN>) {
+	#Incrémentation pour la clé primaire
+	#print OUT ("DEBUT\t- PU$indent \n");
+	#print OUT ("LIGNE : $_ \n");
+	if($_ =~ /Résumé:/) {
+		$indent++;
+		print OUT ("------------------------------------\n");
+		print OUT ("PMID : $indent \n");
+	} elsif ($_ =~ /Titre:/) {
+		print OUT ("$_ \n");
+	} elsif ($_ =~ /Lieu:/) {
+		print OUT ("$_ \n");
+	} elsif ($_ =~ /Langue:\s*(.*)/) {
+		print OUT ("CTECH : $1 \n");
+	}
+}
