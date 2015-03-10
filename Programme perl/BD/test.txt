@@ -1,114 +1,151 @@
+Résultat: 1
+ID: ACCNO_EJ438524
+TI: Using Mental Imagery to Enhance Athletic Performance
+AU: Kenitzer, Raymond F. - Briddell, W. Bryan.
+QUWWW1: Strategies
+QUWWW2: v5 n2 p5-8 Oct 1991
+PY: 1991
+LA: English
+ABHR: Four steps help coaches implement a mental imagery program to improve their athletes' performance and emotional control: evaluate athletes' imaging ability; provide an imaging warm-up; integrate the senses; and use goal achievement strategies. The article notes that imagery skills must be maintained and practiced consistently. (SM)
+CTEH:  Athletic Coaches - Higher Education - Physical Education - Secondary Education - Sportsmanship
+CTEH: Emotional Control - Mental Imagery
+DB: Athletes - Emotional Response - Self Control - Sport Psychology
+ ERIC
 
-What a difference a “Mentally Toughening” year makes: The acculturation of a rookie.
+Résultat: 2
+ID: ACCNO_EJ982582
+TI: Sports Teams Extend Reach
+AU: Shah, Nirvi.
+QUWWW1: Education Week
+QUWWW2: v31 n36 p1, 19 Jul 2012
+URLJ: http://www.edweek.org/ew/toc/2012/07/18/index.html
+PY: 2012
+LA: English
+ABHR: Unlike traditional high school athletic teams, Unified Sports teams are designed to immerse students with intellectual disabilities in a facet of school culture that has largely eluded them. Nationwide, more than 2,000 schools in 42 states have the teams, where the ideal is for about half the athletes on each team to be students with intellectual disabilities, such as Down syndrome, and the rest partner athletes who play alongside them. Unified Sports was created by the Special Olympics more than 20 years ago, but the program has had a recent surge in popularity, the organization reports, in part because of a broader effort to foster an inclusive culture that extends beyond the gymnasium or the playing field called Project Unify. Since that program was established in 2008, the U.S. Department of Education has devoted more than $30 million to it. About 22,000 students across the country are involved in Unified Sports teams, and Special Olympics estimates that 20 times that number have been touched in some way by the program's offshoots.
+CTEH: Athletes - School Culture - Athletics - Team Sports - Adapted Physical Education - Mental Retardation - Accessibility (for Disabled) - Coaching (Performance) - Physical Recreation Programs - Sport Psychology - Special Programs - High School Students - Special Needs Students
+CTEH: United States
+CTEH: High Schools
+CTEH: Young Adulthood
+DB:  ERIC
 
-http://search.proquest.com/docview/1634753832?accountid=16511
+Résultat: 3
+ID: DFK_0054926
+TI: Psychologische Vorbereitung und mentales Training
+AU: Vanek, Miroslav.
+QUWWW1: In: Eberspächer, Hans; Hackfort, Dieter (Ed.), Entwicklungsfelder der Sportpsychologie. Bericht über die Tagung und das 4. Internationale Symposium der ASP vom 6. bis 8. Mai 1988 in Heidelberg anläßlich des 60. Geburtstages von Prof. Dr. Hermann Rieder (S. 61-65). Köln: bps-Verlag, 1989
+QUWWW2: [Betrifft: Psychologie & Sport, Band 22] 
+QUWWW3: Etwa 10 Literaturang.
+PY: 1989
+LA: German
+ABHR: Der Stellenwert der psychologischen Vorbereitung und des mentalen Trainings im Rahmen der psychologischen Betreuung von Sportlern wird erörtert. Auf der Basis von Erfahrungen, die in der Tschechoslowakei gesammelt wurden, werden Entwicklung und Inhalte von Strategien der psychologischen Vorbereitung von Sportlern beschrieben (modelliertes Training, Regulation der Motivationsstrukturen und der aktuellen psychischen Zustände, Analyse der Persönlichkeit des einzelnen Sportlers, Berücksichtigung gruppendynamischer Prozesse, autogenes Training). Abschließend wird auf die bisherigen Erfahrungen mit dem mentalen Training eingegangen, und das Verhältnis von mentalem Training und den übrigen psychologischen Vorbereitungsstrategien wird diskutiert.
+SHE: 3720 Sports
+CTDH: Sporttraining
+CTEH: Athletic Training
+CTDL: Kognitionen (Denkinhalte) - Sport - Trainer - Sportler - Sportpsychologie
+CTEH: Cognitions - Sports - Coaches - Athletes - Sport Psychology
+ITDH: Mentales Training
+CTEH: Mental Training
+DB:  PSYNDEX
 
-Résumé: Objectives: This study investigated how one subculture's norms, traditions, ideals, and imperatives influenced the attitudes, beliefs, emotions, and behaviours of a young athlete (Joe) as he moved from resistance to acculturation. Design: Longitudinal case study of one athlete in one specific sport subculture. Method: Joe took part in five open-ended in-depth interviews over a 14-month period to investigate his experiences as an elite athlete within an Australian football team. Joe's story was analysed through an acculturation-process lens and models on mental toughness, overtraining, and stress-recovery to evaluate the indoctrination of one athlete. Findings: During the initial interviews Joe resisted the subculture demands of the football club and tried to find success by maintaining his own beliefs. By the end of the 14-month study Joe had realised that to be successful in the club he needed to embrace the norms, traditions, ideals, and imperatives of the football culture. Joe gained acceptance at the club when he eventually internalised the hypermasculine subculture and ignored injury, played in pain, subjugated his interests for football, and viewed physical abuse as a positive and necessary part of the toughening process. Conclusion: Joe's case study demonstrates that the subcultural ideals of mental toughness mean ignoring injury, playing in pain, denying emotion and vulnerability, and sacrificing individuality, which inevitably lead to stress/recovery imbalance and overtraining. In this subculture, demonstrating mental toughness is similar to a hypermasculine environment typified by slogans such as no-pain-no-gain and rest-is-for-the-dead where success is more important than individual wellbeing. (PsycINFO Database Record (c) 2015 APA, all rights reserved)(journal abstract)
+Résultat: 4
+ID: DFK_0080236
+TI: Beeinflussungskonzeptionen in der sportpsychologischen Betreuung von Sportlern
+AU: Kratzer, Hannes.
+CS: Deutsche Hochschule für Körperkultur Leipzig (DDR)
+COU: Germany, East
+QUWWW1: Theorie und Praxis des Leistungssports, 1989, 27 (5), 126-149
+QUWWW3: 26 Literaturang.
+PY: 1989
+LA: German
+ABHR: Es wird eine umfassende Konzeption zur Durchführung psychologischer Trainingsmaßnahmen im Leistungssport vorgestellt. Das psychologische Training wird als integrativer Bestandteil des Ausbildungsprozesses zur Verbesserung der individuellen Handlungsfähigkeit des Athleten aufgefasst. Anhand von konkreten Beispielen aus der Sportpraxis wird ein verallgemeinertes Vorgehen erläutert, das gleichermaßen die Problemspezifik einzelner Disziplinen und Athleten berücksichtigt. Für das optimale Durchsetzen psychologischer Trainingsmaßnahmen wird ein einheitliches Konzept der sportpsychologischen Aus- und Weiterbildung von Trainern gefordert.
+SHE: 3720 Sports
+CTDH: Sporttraining - Sportpsychologie
+CTEH: Athletic Training - Sport Psychology
+CTDL: Sportler - Kompetenz - Sportliche Leistung - Trainer - Selbstkontrolltechniken
+CTEH: Athletes - Competence - Athletic Performance - Coaches - Self Management
+ITDH: Mentales Training
+CTEH: Mental Training
+DB:  PSYNDEX
 
-Liens: http://BY4BU7LN5E.search.serialssolutions.com/?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Apsycinfo&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=article&amp;rft.jtitle=Psychology+of+Sport+and+Exercise&amp;rft.atitle=What+a+difference+a+%E2%80%9CMentally+Toughening%E2%80%9D+year+makes%3A+The+acculturation+of+a+rookie.&amp;rft.au=Tibbert%2C+Stephanie+J.%3BAndersen%2C+Mark+B.%3BMorris%2C+Tony&amp;rft.aulast=Tibbert&amp;rft.aufirst=Stephanie&amp;rft.date=2015-03-01&amp;rft.volume=17&amp;rft.issue=&amp;rft.spage=68&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=Psychology+of+Sport+and+Exercise&amp;rft.issn=14690292&amp;rft_id=info:doi/10.1016%2Fj.psychsport.2014.10.007
+Résultat: 5
+ID: DFK_0050525
+TI: Mentale Trainingsformen in der Praxis
+AU: Eberspächer, Hans.
+CS: Universität Heidelberg; Institut für Sportwissenschaft
+COU: Germany
+QUWWW1: Oberhaching: Sportinform Verlag, 1990
+QUWWW2: 111 Seiten
+QUWWW3: 17 Literaturang.
+PY: 1990
+LA: German
+ABHR: Es wird ein Überblick über Formen des mentalen Trainings im Sport gegeben. Die zugrundeliegenden Konzepte und Möglichkeiten der Anwendung werden an Beispielen aus der sportpsychologischen Praxis illustriert. - Inhalt: (1) Das Problem der Synchronisation. (2) Was kann man mit mentalen Trainingsformen trainieren? (3) Selbstgesprächsregulation. (4) Selbstwirksamkeitsüberzeugung. (5) Aufmerksamkeitsregulation. (6) Aktivationsregulation. (7) Vorstellungsregulation. (8) Zielsetzung und Analyse. (9) Der Einsatz kognitiver Fertigkeiten zwischen zwei Beanspruchungen. (10) Kombinierter Einsatz kognitiver Fertigkeiten in Training und Wettkampf.
+SHE: 3720 Sports
+CTDH: Sport - Sportliche Leistung - Sporttraining
+CTEH: Sports - Athletic Performance - Athletic Training
+CTDL: Sportler - Trainer - Wettbewerb - Sportpsychologie
+CTEH: Athletes - Coaches - Competition - Sport Psychology
+ITDH: Mentales Training
+CTEH: Mental Training
+DB:  PSYNDEX
 
-Adresse de courriel de l'auteur: mark.andersen@hh.se
+Résultat: 6
+ID: DFK_0065600
+TI: Psychologische Betreuung bei den Olympischen Spielen '92
+AU: Beckmann, Jürgen.
+CS: Max-Planck-Institut für psychologische Forschung, München
+COU: Germany
+QUWWW1: Sportpsychologie, 1992, 6 (2), 20-23
+PY: 1992
+LA: German
+ABHR: Erfahrungen mit der sportpsychologischen Betreuung der deutschen Abfahrts- und Super-G-Mannschaft der Herren in der Vorbereitung und während der Olympiade 1992 in Albertville werden mitgeteilt. Drei Phasen der sportpsychologischen Aktivitäten werden erläutert: (1) Kontaktaufnahme und Diagnose, (2) Trainingsmaßnahmen (Entspannung, Visualisierung, Selbstregulation, Vorstartritual, Trainer-Athlet-Kommunikation, Gruppendynamik), (3) Betreuung während der Rennen. Einzelbeispiele von Betreuungsmaßnahmen werden skizziert, und nach einigen Anmerkungen zur organisatorischen Einbeziehung des Psychologen werden Perspektiven psychologischer Betreuung im Leistungssport aufgezeigt.
+SHE: 3720 Sports - 3400 Professional Psychological & Health Personnel Issues
+CTDH: Sporttraining - Sportpsychologie - Beratungspsychologen
+CTEH: Athletic Training - Sport Psychology - Counseling Psychologists
+CTDL: Sportler - Sportliche Leistung - Trainer - Wettbewerb - Berufliche Identität
+CTEH: Athletes - Athletic Performance - Coaches - Competition - Professional Identity
+ITDH: Mentales Training
+CTEH: Mental Training
+DB:  PSYNDEX
 
-Auteur: Tibbert, Stephanie J.1; Andersen, Mark B.2; Morris, Tony11 College of Sport and Exercise Science, Institute for Sport, Exercise and Active Living, Victoria University, Melbourne, VIC, Australia2 Centre for Research on Welfare, Health, and Sport, Halmstad University, Halmstad, Sweden mark.andersen@hh.se
+Résultat: 7
+ID: DFK_0093730
+TI: Psychoregulation und Selbst-Management im Schweizer Sport
+AU: Venzl, Reto - Schori, Beat.
+QUWWW1: In: Nitsch, Jürgen R.; Seiler, Roland; Allmer, Henning/MI; Hackfort, Dieter/MI (Ed.), Bewegung und Sport. Psychologische Grundlagen und Wirkungen. Movement and sport. Psychological foundations and effects. Bericht über den VIII. Europäischen Kongreß für Sportpsychologie. Proceedings of the VIIIth European Congress of Sport Psychology. Band 3: Psychologisches Training. Vol. 3: Psychological training (S. 91-94). Sankt Augustin: Academia-Verlag, 1994
+PY: 1994
+LA: German
+ABHR: Mit dem Human Potential Training wird ein sportpsychologischer Trainingsansatz vorgestellt, der in der Schweiz im Rahmen der Aus- und Weiterbildung von Athleten und Trainern eingesetzt wird. Das Programm dient dazu, den Athleten selbständige Arbeit im mentalen Bereich zu ermöglichen und beinhaltet sechs Themen: Regeneration, Motivation, Selbstvertrauen, positives Denken, Selbststeuerung, Aktivierungsniveau. Anwendungsbeispiele (Profitänzerin, Handballmannschaft) werden skizziert.
+SHE: 3720 Sports
+CTDH: Sporttraining
+CTEH: Athletic Training
+CTDL: Bildungsprogramme - Selbstkontrolltechniken - Sportler - Trainer - Sportpsychologie
+CTEH: Educational Programs - Self Management - Athletes - Coaches - Sport Psychology
+ITDH: Mentales Training
+CTEH: Mental Training
+PLOCDR: Schweiz
+PLOCR: Switzerland
+DB:  PSYNDEX
 
-Base de données: PsycINFO
-
-Date de publication: Mar 2015
-
-Date de publication: 08 déc. 2014 (PsycINFO)
-
-ID de document ProQuest: 1634753832
-
-ISSN: 1469-0292
-
-Identificateur (mot clé): Cultural influences Mental toughness Overtraining Traditions Norms
-
-Langue: Anglais
-
-Lieu: Australia
-
-Méthodologie: Empirical Study, Longitudinal Study, Interview, Quantitative Study
-
-Sujet: Acculturation (principal); Athletes (principal); Resistance (principal); Sport Psychology (principal); Emotions; Football
-
-Titre: What a difference a “Mentally Toughening” year makes: The acculturation of a rookie.
-
-Type de document: Journal, Peer-reviewed Journal, Journal Article
-
-____________________________________________________________
-
-Shared mental task models in elite ice hockey and handball teams: Does it exist and how does the coach intervene to make an impact?
-
-http://search.proquest.com/docview/1648595746?accountid=16511
-
-Résumé: We investigated whether a shared mental model is present in elite ice hockey and handball teams. In total, 231 male players participated in the study. Shared mental models were found to exist. Relationships between shared mental models and coaching efforts to develop a general training shared mental model and an opponent-specific model were explored. The relationship between role clarity and shared mental model, general training shared mental model, and opponent-specific model was positive. The shared mental model is a useful construct for analyzing elite team practice and coaching behavior. Coaches and sport psychologists should be aware that establishing a shared mental model in elite teams is essential in facilitating performance. (PsycINFO Database Record (c) 2015 APA, all rights reserved)(journal abstract)
-
-Liens: http://BY4BU7LN5E.search.serialssolutions.com/?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Apsycinfo&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Applied+Sport+Psychology&amp;rft.atitle=Shared+mental+task+models+in+elite+ice+hockey+and+handball+teams%3A+Does+it+exist+and+how+does+the+coach+intervene+to+make+an+impact%3F&amp;rft.au=Giske%2C+Rune%3BRodahl%2C+Stein+E.%3BH%C3%B8igaard%2C+Rune&amp;rft.aulast=Giske&amp;rft.aufirst=Rune&amp;rft.date=2015-01-01&amp;rft.volume=27&amp;rft.issue=1&amp;rft.spage=20&amp;rft.isbn=&amp;rft.btitle=&amp;rft.title=Journal+of+Applied+Sport+Psychology&amp;rft.issn=10413200&amp;rft_id=info:doi/10.1080%2F10413200.2014.940431
-
-Sujet: Coaches (principal); Experience Level (principal); Mental Models (principal); Sports (principal); Teams
-
-Classification: 3720: Sports
-
-Âge: Adolescence (13-17 yrs) Adulthood (18 yrs & older) Young Adulthood (18-29 yrs) Thirties (30-39 yrs)
-
-Population: Human Male
-
-Lieu: Norway
-
-Identificateur (mot clé): mental models ice hockey handball teams sport psychologists intervention
-
-Test et mesure: Role Ambiguity Scale-Adapted Version
-
-Méthodologie: Empirical Study, Quantitative Study
-
-Titre: Shared mental task models in elite ice hockey and handball teams: Does it exist and how does the coach intervene to make an impact?
-
-Auteur: Giske, Rune1; Rodahl, Stein E.2; Høigaard, Rune31 University of Stavanger, Stavanger, Norway rune.giske@uis.no2 University of Nordland, Norway3 University of Agder, Norway
-
-Adresse de courriel de l'auteur: rune.giske@uis.no
-
-Contacter la personne: Giske, Rune, Department of Education and Sport Science, University of Stavanger, Stavanger, 4036, Norway, rune.giske@uis.no
-
-Publication: Journal of Applied Sport Psychology
-
-Volume: 27
-
-Numéro: 1
-
-Pages: 20-34
-
-Date de publication: Jan 2015
-
-Format pris en charge: Electronic
-
-Éditeur: Taylor & Francis (,   United Kingdom )
-
-ISSN: 1041-3200
-
-eISSN: 1533-1571
-
-Revu par les pairs: Oui
-
-Langue: Anglais
-
-Type de document: Journal, Peer-reviewed Journal, Journal Article
-
-Nombre de références: 46
-
-Historique des publications : 
-
-   Date d'acceptation: 27 juin 2014
-
-   Date de première soumission: 22 nov. 2013
-
-DOI: http://dx.doi.org/10.1080/10413200.2014.940431
-
-Date de publication: 26 janv. 2015 (PsycINFO)
-
-Numéro d'inventaire: 2014-57281-002
-
-ID de document ProQuest: 1648595746
-
-URL du document: http://search.proquest.com/docview/1648595746?accountid=16511
-
-Base de données: PsycINFO
+Résultat: 8
+ID: DFK_0174336
+TI: Sportpsychologie
+AU: Alfermann, Dorothee - Stoll, Oliver.
+EMAILO: alferman@rz.uni-leipzig.de (Alfermann, Dorothee)
+CS: Universität Leipzig; Sportwissenschaftliche Fakultät
+COU: GERMANY
+URLCS: http://www.uni-leipzig.de/~sportfak
+QUWWW1: Aachen: Meyer & Meyer, 2004
+QUWWW2: 267 S., EUR 18,95 [Sportwissenschaft studieren, Band 4] 
+QUWWW3: Etwa 300 Literaturang.
+URLCS: http://www.uni-leipzig.de/~sportfak
+PY: 2004
+LA: German
+ABHR: Das Lehrbuch erläutert die allgemeinpsychologischen, entwicklungspsychologischen und sozialpsychologischen Grundlagen des Sports und zeigt wie die Sportpsychologie diese Erkenntnisse in der Praxis umsetzt. - Inhalt: (1) Was ist Sportpsychologie? (2) Kognitionen. (3) Visualisierung und Mentales Training. (4) Emotionen und Stress. (5) Entspannungsverfahren. (6) Motivation. (7) Zielsetzungstraining. (8) Entwicklung. (9) Karriere im Leistungssport. (10) Trainer-Athlet-Interaktion. (11) Gruppe und Mannschaft. (12) Zuschauer.
+SHE: 3720 Sports
+CTDH: Sportpsychologie
+CTEH: Sport Psychology
+CTDL: Sport - Sportliche Leistung - Sporttraining - Trainer - Publikum
+CTEH: Sports - Athletic Performance - Athletic Training - Coaches - Audiences
+ITDL: Mentales Training
+CTEH: Mental Training
+DB:  PSYNDEX
