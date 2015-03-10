@@ -7,7 +7,7 @@ if ( !open(OUT, ">>$ARGV[0]") ) {
   exit(0);
 }
 
-my $repertoire = 'C:\Users\Marine\Documents\cmi\M1\BE\BE-M1\index2';
+my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index2';
 foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
   if ( !open(IN, "$fichier") ) {
   #if ( !open(IN, "test.html") ) {
@@ -20,43 +20,47 @@ foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) {
   $p = HTML::TokeParser->new("$fichier") || die "Can't open: $!";
   &parse_meta_tags;          # lecture des META TAGS.
   while(<IN>) {
-	if(my @liste = ($_ =~ m@<article[^>]*>(.*)</article>@)) {
+	if(@liste = ($_ =~ m@<article[^>]*>(.*)</article>@)) {
 		#On a tout ce qui se trouve entre <article> et </article>
 		#On va retirer toutes les balises
-			foreach my $ligne (@liste) {
+			foreach $ligne (@liste) {
 				$ligne =~ s/<[^<]*>//g;
 				$ligne =~ s/\s\s//g;
 				print OUT "\nAR : $ligne";
 			}
 		#close(OUT);
-	} elsif (my @liste = ($_ =~ m@</ul>                                                                                        <p>(.*)&nbsp;</p>  @)) {
+	} elsif (@liste = ($_ =~ m@</ul>                                                                                        <p>(.*)&nbsp;</p>  @)) {
 	#On va retirer toutes les balises
-			foreach my $ligne (@liste) {
+			foreach $ligne (@liste) {
 				$ligne =~ s/<[^<]*>//g;
 				$ligne =~ s/\s\s//g;
 				print OUT "\nAR : $ligne";
 			}
 		#close(OUT);
-  }elsif (my @liste = ($_ =~ m@<div class="texte">				 <div class="access firstletter">(.*)<br /><br />@)) {
+    } elsif (@liste = ($_ =~ m@<div class="texte">				 <div class="access firstletter">(.*)<br /><br />@)) {
 	#On va retirer toutes les balises
-			foreach my $ligne (@liste) {
+			foreach $ligne (@liste) {
 				$ligne =~ s/<[^<]*>//g;
 				$ligne =~ s/\s\s//g;
 				print OUT "\nAR : $ligne";
 			}
 		#close(OUT);
-  }elsif (my @liste = ($_ =~ m@ <div class="container">(.*)&nbsp;</div>@g)) {
+	} elsif (@liste = ($_ =~ m@ <div class="container">(.*)&nbsp;</div>@g)) {
 	#On va retirer toutes les balises
-			foreach my $ligne (@liste) {
+			foreach $ligne (@liste) {
 				$ligne =~ s/<[^<]*>//g;
 				$ligne =~ s/\s\s//g;
 				print OUT "\nAR : $ligne";
 			}
 		#close(OUT);
-  }
-  
-  
- 
+	}
+	if (@liste = ($_ =~ m@<time[^>]*>([^<]*)</time>@)) {
+		foreach $ligne (@liste) {
+				$ligne =~ s/<[^<]*>//g;
+				$ligne =~ s/\s\s//g;
+				print OUT "\nDA : $ligne";
+		}
+	} 
   }
   print OUT "\n";
   close(IN);
