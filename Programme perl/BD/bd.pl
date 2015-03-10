@@ -18,7 +18,7 @@ while(<IN>) {
 	if($_ =~ /Résultat:/) {
 		$indent++;
 		print OUT ("------------------------------------\n");
-		print OUT ("PMID- $indent \n");
+		print OUT ("PMID- PP$indent \n");
 	} elsif ($_ =~ /TI:\s*(.*)/) {
 		print OUT ("TI - $1 \n");
 	} elsif ($_ =~ /AU:\s*(.*)/) {
@@ -61,7 +61,7 @@ close(IN);
 	# if($_ =~ /Résumé:\s*(.*)/) {
 		# $indent++;
 		# print OUT ("------------------------------------\n");
-		# print OUT ("PMID- $indent \n");
+		# print OUT ("PMID- PQ$indent \n");
 		# print OUT ("AB - $1 \n");
 	# } elsif ($_ =~ /Titre:\s*(.*)/) {
 		# print OUT ("TI - $1 \n");
@@ -82,3 +82,6 @@ close(IN);
 		# print OUT ("AG - $1 \n");
 	# }
 # }
+
+# close(OUT);
+# close(IN);
