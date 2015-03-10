@@ -2,46 +2,46 @@
 
 
 ####################### BD PUBPSYCH #######################
-if ( !open(OUT, ">>FusionPP.txt") ) {
-  print " Erreur d'ouverture de FusionPP.txt \n"; 
-  exit(0);
-}
+# if ( !open(OUT, ">>FusionPP.txt") ) {
+  # print " Erreur d'ouverture de FusionPP.txt \n"; 
+  # exit(0);
+# }
 
-if ( !open(IN, "PP - Copie.txt") ) {
-	print " Erreur d'ouverture de PP - Copie.txt \n"; 
-	exit(0);	
-}
-$indent = 0;
-while(<IN>) {
-	#Incrémentation pour la clé primaire
-	#print OUT ("DEBUT\t- PU$indent \n");
-	if($_ =~ /Résultat:/) {
-		$indent++;
-		print OUT ("------------------------------------\n");
-		print OUT ("PMID- PP$indent \n");
-	} elsif ($_ =~ /TI:\s*(.*)/) {
-		print OUT ("TI - $1 \n");
-	} elsif ($_ =~ /AU:\s*(.*)/) {
-		print OUT ("AU - $1 \n");
-	} elsif ($_ =~ /PY:\s*(.*)/) {
-		print OUT ("DA - $1 \n");
-	} elsif ($_ =~ /LA:\s*(.*)/) {
-		print OUT ("LA - $1 \n");
-	} elsif ($_ =~ /ABHR:\s*(.*)/) {
-		print OUT ("AB - $1 \n");
-	} elsif ($_ =~ /CTEH:\s*(.*)/) {
-		print OUT ("MC - $1 \n");
-	} elsif ($_ =~ /CS:\s*(.*)/) {
-		print OUT ("AD - $1 \n");
-	} elsif ($_ =~ /COU:\s*(.*)/) {
-		print OUT ("PY - $1 \n");
-	} elsif ($_ =~ /EMAILO:\s*(.*)/) {
-		print OUT ("EM - $1 \n");
-	}
-}
+# if ( !open(IN, "PP - Copie.txt") ) {
+	# print " Erreur d'ouverture de PP - Copie.txt \n"; 
+	# exit(0);	
+# }
+# $indent = 0;
+# while(<IN>) {
+	##Incrémentation pour la clé primaire
+	##print OUT ("DEBUT\t- PU$indent \n");
+	# if($_ =~ /Résultat:/) {
+		# $indent++;
+		# print OUT ("------------------------------------\n");
+		# print OUT ("PMID- PP$indent \n");
+	# } elsif ($_ =~ /TI:\s*(.*)/) {
+		# print OUT ("TI - $1 \n");
+	# } elsif ($_ =~ /AU:\s*(.*)/) {
+		# print OUT ("AU - $1 \n");
+	# } elsif ($_ =~ /PY:\s*(.*)/) {
+		# print OUT ("DA - $1 \n");
+	# } elsif ($_ =~ /LA:\s*(.*)/) {
+		# print OUT ("LA - $1 \n");
+	# } elsif ($_ =~ /ABHR:\s*(.*)/) {
+		# print OUT ("AB - $1 \n");
+	# } elsif ($_ =~ /CTEH:\s*(.*)/) {
+		# print OUT ("MC - $1 \n");
+	# } elsif ($_ =~ /CS:\s*(.*)/) {
+		# print OUT ("AD - $1 \n");
+	# } elsif ($_ =~ /COU:\s*(.*)/) {
+		# print OUT ("PY - $1 \n");
+	# } elsif ($_ =~ /EMAILO:\s*(.*)/) {
+		# print OUT ("EM - $1 \n");
+	# }
+# }
 
-close(OUT);
-close(IN);
+# close(OUT);
+# close(IN);
 
 ####################### BD PQ #######################
 # if ( !open(OUT, ">>FusionPQ.txt") ) {
@@ -85,3 +85,31 @@ close(IN);
 
 # close(OUT);
 # close(IN);
+
+####################### BD PUBMED #######################
+if ( !open(OUT, ">>FusionPU.txt") ) {
+  print " Erreur d'ouverture de FusionPP.txt \n"; 
+  exit(0);
+}
+
+if ( !open(IN, "PU - Copie.txt") ) {
+	print " Erreur d'ouverture de PP - Copie.txt \n"; 
+	exit(0);	
+}
+$indent = 0;
+while(<IN>) {
+	#Incrémentation pour la clé primaire
+	#print OUT ("DEBUT\t- PU$indent \n");
+	if ($_ =~ /DP\s*-\s*(.*)/) {
+		print OUT ("DA - $1 \n");
+	} elsif ($_ =~ /OT\s*-\s*(.*)/) {
+		print OUT ("MC - $1 \n");
+	} elsif ($_ =~ /MH\s*-\s*(.*)/) {
+		print OUT ("MC - $1 \n");
+	} else {
+		print OUT ("$_");
+	}
+}
+
+close(OUT);
+close(IN);
