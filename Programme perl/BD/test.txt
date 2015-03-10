@@ -1,3 +1,4 @@
+
 Résultat: 1
 ID: ACCNO_EJ438524
 TI: Using Mental Imagery to Enhance Athletic Performance
@@ -124,28 +125,4 @@ ITDH: Mentales Training
 CTEH: Mental Training
 PLOCDR: Schweiz
 PLOCR: Switzerland
-DB:  PSYNDEX
-
-Résultat: 8
-ID: DFK_0174336
-TI: Sportpsychologie
-AU: Alfermann, Dorothee - Stoll, Oliver.
-EMAILO: alferman@rz.uni-leipzig.de (Alfermann, Dorothee)
-CS: Universität Leipzig; Sportwissenschaftliche Fakultät
-COU: GERMANY
-URLCS: http://www.uni-leipzig.de/~sportfak
-QUWWW1: Aachen: Meyer & Meyer, 2004
-QUWWW2: 267 S., EUR 18,95 [Sportwissenschaft studieren, Band 4] 
-QUWWW3: Etwa 300 Literaturang.
-URLCS: http://www.uni-leipzig.de/~sportfak
-PY: 2004
-LA: German
-ABHR: Das Lehrbuch erläutert die allgemeinpsychologischen, entwicklungspsychologischen und sozialpsychologischen Grundlagen des Sports und zeigt wie die Sportpsychologie diese Erkenntnisse in der Praxis umsetzt. - Inhalt: (1) Was ist Sportpsychologie? (2) Kognitionen. (3) Visualisierung und Mentales Training. (4) Emotionen und Stress. (5) Entspannungsverfahren. (6) Motivation. (7) Zielsetzungstraining. (8) Entwicklung. (9) Karriere im Leistungssport. (10) Trainer-Athlet-Interaktion. (11) Gruppe und Mannschaft. (12) Zuschauer.
-SHE: 3720 Sports
-CTDH: Sportpsychologie
-CTEH: Sport Psychology
-CTDL: Sport - Sportliche Leistung - Sporttraining - Trainer - Publikum
-CTEH: Sports - Athletic Performance - Athletic Training - Coaches - Audiences
-ITDL: Mentales Training
-CTEH: Mental Training
 DB:  PSYNDEX

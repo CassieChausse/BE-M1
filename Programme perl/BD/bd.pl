@@ -24,7 +24,7 @@ while(<IN>) {
 	} elsif ($_ =~ /AU:\s*(.*)/) {
 		print OUT ("AU - $1 \n");
 	} elsif ($_ =~ /PY:\s*(.*)/) {
-		print OUT ("PY - $1 \n");
+		print OUT ("DA - $1 \n");
 	} elsif ($_ =~ /LA:\s*(.*)/) {
 		print OUT ("LA - $1 \n");
 	} elsif ($_ =~ /ABHR:\s*(.*)/) {
@@ -49,8 +49,8 @@ close(IN);
   # exit(0);
 # }
 
-# if ( !open(IN, "test.txt") ) {
-	# print " Erreur d'ouverture de test.txt \n"; 
+# if ( !open(IN, "PQ - Copie.txt") ) {
+	# print " Erreur d'ouverture de PQ - Copie.txt \n"; 
 	# exit(0);	
 # }
 # $indent = 0;
@@ -58,15 +58,27 @@ close(IN);
 	##Incrémentation pour la clé primaire
 	##print OUT ("DEBUT\t- PU$indent \n");
 	##print OUT ("LIGNE : $_ \n");
-	# if($_ =~ /Résumé:/) {
+	# if($_ =~ /Résumé:\s*(.*)/) {
 		# $indent++;
 		# print OUT ("------------------------------------\n");
-		# print OUT ("PMID : $indent \n");
-	# } elsif ($_ =~ /Titre:/) {
-		# print OUT ("$_ \n");
-	# } elsif ($_ =~ /Lieu:/) {
-		# print OUT ("$_ \n");
+		# print OUT ("PMID- $indent \n");
+		# print OUT ("AB - $1 \n");
+	# } elsif ($_ =~ /Titre:\s*(.*)/) {
+		# print OUT ("TI - $1 \n");
+	# } elsif ($_ =~ /Auteur:\s*(.*)/) {
+		# print OUT ("AU - $1 \n");
+		# print OUT ("AD - $1 \n");
+	# } elsif ($_ =~ /Date\sde\spublication:\s*(.*)/) {
+		# print OUT ("DA - $1 \n");
 	# } elsif ($_ =~ /Langue:\s*(.*)/) {
-		# print OUT ("CTECH : $1 \n");
+		# print OUT ("LA - $1 \n");
+	# } elsif ($_ =~ /Sujet:\s*(.*)/) {
+		# print OUT ("MC - $1 \n");
+	# } elsif ($_ =~ /Identificateur.*:\s*(.*)/) {
+		# print OUT ("MC - $1 \n");
+	# } elsif ($_ =~ /Adresse\sde\scourriel\sde\sl\'auteur:\s*(.*)/) {
+		# print OUT ("EM - $1 \n");
+	# } elsif ($_ =~ /Âge:\s*(.*)/) {
+		# print OUT ("AG - $1 \n");
 	# }
 # }
