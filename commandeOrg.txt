@@ -1,2 +1,2 @@
-egrep -i "College|Univers" AD.ind > CO.Filtre
+egrep -i "College|Univers" AD.ind > ORG.Filtre
 Norwegian School of Sport Sciences
