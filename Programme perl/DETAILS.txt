@@ -1,0 +1,5 @@
+ExtractModif -> Récupère le texte de tous les .html entre les balises spécifiées
+lebon.pl -> Récupère les bons index.html dans les résultats de HTTRACK (pas ceux dans les dossiers 'feed')
+url.pl -> Va cherche dans tous les .html les url utiles et les stocke dans un fichier texte résultat
+ligne.pl -> Permet de mettre sur une seul ligne tout un fichier
+bd.pl -> change les formats des identifiants et met les résultat dans un fichier txt pour faire une fusion
