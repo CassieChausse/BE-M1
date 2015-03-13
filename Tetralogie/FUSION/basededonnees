@@ -2,11 +2,11 @@ PMID-
 # descripteurs des champs de la base PUBMED format MEDLINE TXT #
 # nom      abrev  champ       visible  Separateurs #
 NumArt       PM     PMID-      True   "
-Titre        TI     TI         True   ---"s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"!"$"§"%"
+Titre        TI     TI         True   ---"s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"!"$"§"%"0"1"2"3"4"5"6"7"8"9"
 Auteur       AU     AU         True   ---";"
 Pays         PY     PY         True   -".b";b".\n".";"\n"
 Langue       LA     LA         True   b"-"
-Resume       AB     AB         True   s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"\""%"
+Resume       AB     AB         True   s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"\"%"0"1"2"3"4"5"6"7"8"9"
 MotCle       MC     MC         True   -"(")"*"
 Adresse      AD     AD         True   ",";"."/"
 E-mail       EM     EM         True   b";"
