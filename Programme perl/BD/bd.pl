@@ -1,5 +1,7 @@
 #!/usr/bin/perl 
 
+#Programme qui sert à fusionner les différentes BD en les mettant sous les même format
+#A la fin il suffit de regrouper les trois fichiers .txt réponses dans un seul
 
 ####################### BD PUBPSYCH #######################
 # if ( !open(OUT, ">>FusionPP.txt") ) {
