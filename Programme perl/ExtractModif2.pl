@@ -2,30 +2,45 @@
 use HTML::TokeParser;
 
 #######################
+# Ouverture du fichier donnée en paramètre
+# Fichier dans lequel on stockera les résultats
 if ( !open(OUT, ">>$ARGV[0]") ) {
   print " Erreur d'ouverture de $ARGV[0] \n"; 
   exit(0);
 }
 
+#Définition du répértoire contenant tous les .html où nous devons récupérer
+#les informations nécessaires
 my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index2';
+
+#Pour chaque fichier dans le répertoire
 foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
+  #On ouvre le fichier
   if ( !open(IN, "$fichier") ) {
-  #if ( !open(IN, "test.html") ) {
 	print " Erreur d'ouverture de $fichier \n"; 
 	exit(0);	
   }
   print OUT "------------------------------------------------------\n";
-  print OUT "FICHIER : $fichier";
-  #print OUT "\n"; # separateur de notices 
+  print OUT "FICHIER : $fichier"; #Affichage du nom du fichier ouvert
+  
+  #On utilise le module TokeParser qui permet, entre autre, de récupérer le texte dans une balise définie en paramètre
   $p = HTML::TokeParser->new("$fichier") || die "Can't open: $!";
   &parse_meta_tags;          # lecture des META TAGS.
+  
+  #Pour chaque ligne du fichier
+  #A noter : le .html a été réduit sur une ligne pour pouvoir récupérer toutes les informations d'un coup
+  #Ici, le while n'est donc pas nécessaire mais on le laisse au cas où
   while(<IN>) {
+    #On récupère tout le texte qui se trouve entre les balises <article>...</article>
 	if(@liste = ($_ =~ m@<article[^>]*>(.*)</article>@)) {
-		#On a tout ce qui se trouve entre <article> et </article>
-		#On va retirer toutes les balises
+		#On a tout ce qui se trouve entre <article> et </article> dans la liste @liste
+		#On va retirer toutes les balises toujours présentes pour ne récupérer que le texte utile
+		#Pour chaque élément dans @liste
 			foreach $ligne (@liste) {
+				#Retrait des balises inutiles
 				$ligne =~ s/<[^<]*>//g;
 				$ligne =~ s/\s\s//g;
+				#On écrit dans le fichier (OUT) la réponse nettoyée
 				print OUT "\nAR : $ligne";
 			}
 		#close(OUT);

@@ -3,17 +3,18 @@ use warnings;
 use strict; 
   
 my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index'; 
+
+#Pour chaque fichier dans index\
 foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
   print "Fichier : $fichier\n";
   #On ouvre le fichier
-  #$fichier = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index\0.html';
   open(LAMA,$fichier) || die ("Erreur d'ouverture de $fichier");
-  while (<LAMA>) {
+  while (<LAMA>) { #pour chaque ligne du fichier
 	#On récupère les ../../www. et on met dans un fichier -> URL.txt
-	if(my @liste = ($_ =~ m@\.\./\.\./(www\..*?)"@)) {
+	if(my @liste = ($_ =~ m@\.\./\.\./(www\..*?)"@)) { #expression régulière qui récupère les url
 		open(URL,">>C:/CASSIE/TOULOUSE/Cours SID/M1/BE M1/BE-M1/URL");
 			foreach my $ligne (@liste) {
-				print URL "$ligne \n";
+				print URL "$ligne \n"; #écriture dans URL
 			}
 		close(URL);
 	}

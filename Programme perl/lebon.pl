@@ -7,18 +7,25 @@ use  File::Copy  qw/move/;
 # /home et /tmp sont sur deux disques différents
 my $i = 0;
 my $chaine = "$i";
-#my $rep = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\Fichier index'; #dossier de destination des index.html
+
+#Dossier de destination des index.html
 my $rep = 'C:\Users\Marine\Documents\cmi\M1\BE\BE-M1\index';
-#my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\Test PERL'; #dossier où on va chercher les index.html
+
+#Dossier où on va chercher les index.html
 my $repertoire = 'C:\Users\Marine\Desktop\www.psychologiesport.fr';
+
+#Pour chaque fichier du répertoire www.psychologiesport.fr\
 foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
+  #On va seulement sélectionner les index.html qui ne se trouvent PAS dans un dossier feed
+  
   my $longueur = (length($fichier) - 10) < 0 ? 0 : (length($fichier)-10);
+  #Si le fichier se nomme index.html et qu'il ne se trouve pas dans un dossier feed
   if(substr($fichier,$longueur) eq "index.html" & !($fichier =~ m/feed/)) {
-	#print($fichier);
-	#print("\n");
+	#incrément pour récupérer le nombre de fichier index.html trouvés
 	$i++;
+	
 	$chaine = "$i";
-	#move($fichier, $rep) or die  "move failed: $!";
+	#Copie du fichier index.html dans le répertoire index\ et renommage avec la variable incrémentée
 	copy( $fichier, $rep.'\\'.$chaine.'.html') or die  "Copy failed: $!";
 	print "OK\n";
   }

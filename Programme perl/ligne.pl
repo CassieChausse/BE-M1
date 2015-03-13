@@ -1,13 +1,12 @@
 #!/usr/bin/perl
 
 my $repertoire = 'C:\CASSIE\TOULOUSE\Cours SID\M1\BE M1\BE-M1\index2';
+
+#Pour tous les fichier du répertoire index2\
 foreach my $fichier ( lister_fichiers( $repertoire, 1 ) ) { 
-	#On met tous les .html sur une même ligne
-	#print ('perl -pi.bak -e "s/\n//" "'.$fichier.'"');
-	#print("\n");
-	exec 'perl -pi.bak -e "s/\n//" "'.$fichier.'"';
+	#On met tous les fichier .html sur une même ligne
+	exec 'perl -pi.bak -e "s/\n//" "'.$fichier.'"'; #commande perl
 	print("$fichier OK\n");
-	#exec 'perl -pi.bak -e "s/\n//" test.html';
 }
 
 #====================================================== 
