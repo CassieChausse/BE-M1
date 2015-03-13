@@ -1,2 +1,5 @@
 egrep -i "College|Univers" AD.ind > ORG.Filtre
 Norwegian School of Sport Sciences
+
+
+egrep -i "school|univers|@|science|canada|college|institut|clinic|north|united|academy|south|dept|center|springfield|state|service|washington|facult|western|professor|wales|italy|poland|israel|ireland|hungary|greece|finland|estonia|austria|germany|england|france|zealand|autralia|switzerland|turkey|spain|netherlands|croatia|japan|scotland|india|sweden|russia|norway|belgium|china" AU.ind > AU.Filtre
