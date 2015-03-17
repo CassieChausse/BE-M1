@@ -3,11 +3,11 @@ PMID-
 # nom      abrev  champ       visible  Separateurs #
 NumArt       PM     PMID-      True   "
 Multi-Termes MT     MTM:       True   b"
-Titre        TI     TI         True   -"s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"!"$"§"%"0"1"2"3"4"5"6"7"8"9"<">"="€"
+Titre        TI     TI         True   -"s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"!"$"§"%"0"1"2"3"4"5"6"7"8"9"<">"="€"/"""
 Auteur       AU     AU         True   -";"0"1"2"3"4"5"6"7"8"9":"
 Pays         PY     PY         True   -".b";b".\n".";"\n"
 Langue       LA     LA         True   b"-"
-Resume       AB     AB         True   s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"\"%"0"1"2"3"4"5"6"7"8"9"<">"-"="€"
+Resume       AB     AB         True   s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"\"%"0"1"2"3"4"5"6"7"8"9"<">"-"="€"/"""
 MotCle       MC     MC         True   -"(principal)"*"0"1"2"3"4"5"6"7"8"9";"&"/","€"
 Adresse      AD     AD         True   ",";"."/"["]"0"1"2"3"4"5"6"7"8"9"
 E-mail       EM     EM         True   b";"
