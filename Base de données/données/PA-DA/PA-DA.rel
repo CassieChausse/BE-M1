@@ -1,531 +1,72 @@
 usa	2011-20	1	150
+usa	1994-20	1	148
+usa	2006-20	1	118
 germany	2011-20	1	66
 germany	1994-20	1	90
+germany	2006-20	1	51
 uk	2011-20	1	119
 uk	1994-20	1	51
 uk	2006-20	1	82
 france	2011-20	1	14
 france	1994-20	1	30
 france	2006-20	1	18
-france	1903-19 
-	1	5
-
 new-zea	2011-20	1	16
 new-zea	1994-20	1	10
 new-zea	2006-20	1	8
-new-zea	1903-19 
-	1	5
-
-new-zea		1	
 switzer	2011-20	1	15
 switzer	1994-20	1	7
 switzer	2006-20	1	5
-switzer	1903-19 
-	1	11
-
-switzer		1	
-switzer		1	
 canada	2011-20	1	5
 canada	1994-20	1	7
 canada	2006-20	1	7
-canada	1903-19 
-	1	18
-
-canada		1	
-canada		1	
-canada		1	
 denmark	2011-20	1	10
 denmark	1994-20	1	9
 denmark	2006-20	1	13
-denmark	1903-19 
-	1	1
-
-denmark		1	
-denmark		1	
-denmark		1	
-denmark		1	
 austral	2011-20	1	5
 austral	1994-20	1	13
 austral	2006-20	1	10
-austral	1903-19 
-	1	3
-
-austral		1	
-austral		1	
-austral		1	
-austral		1	
-austral		1	
 italy	2011-20	1	2
 italy	1994-20	1	7
 italy	2006-20	1	7
-italy	1903-19 
-	1	7
-
-italy		1	
-italy		1	
-italy		1	
-italy		1	
-italy		1	
-italy		1	
 spain	2011-20	1	5
 spain	1994-20	1	3
 spain	2006-20	1	8
-spain	1903-19 
-	1	0
-
-spain		1	
-spain		1	
-spain		1	
-spain		1	
-spain		1	
-spain		1	
-spain		1	
 netherl	2011-20	1	4
 netherl	1994-20	1	3
 netherl	2006-20	1	6
-netherl	1903-19 
-	1	7
-
-netherl		1	
-netherl		1	
-netherl		1	
-netherl		1	
-netherl		1	
-netherl		1	
-netherl		1	
-netherl		1	
 turkey	2011-20	1	10
 turkey	1994-20	1	4
 turkey	2006-20	1	7
-turkey	1903-19 
-	1	0
-
-turkey		1	
-turkey		1	
-turkey		1	
-turkey		1	
-turkey		1	
-turkey		1	
-turkey		1	
-turkey		1	
-turkey		1	
 austria	2011-20	1	2
 austria	1994-20	1	3
 austria	2006-20	1	4
-austria	1903-19 
-	1	6
-
-austria		1	
-austria		1	
-austria		1	
-austria		1	
-austria		1	
-austria		1	
-austria		1	
-austria		1	
-austria		1	
-austria		1	
 poland	2011-20	1	7
 poland	1994-20	1	2
 poland	2006-20	1	2
-poland	1903-19 
-	1	0
-
-poland		1	
-poland		1	
-poland		1	
-poland		1	
-poland		1	
-poland		1	
-poland		1	
-poland		1	
-poland		1	
-poland		1	
-poland		1	
 croatia	2011-20	1	4
 croatia	1994-20	1	2
 croatia	2006-20	1	3
-croatia	1903-19 
-	1	0
-
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
-croatia		1	
 japan	2011-20	1	3
 japan	1994-20	1	1
 japan	2006-20	1	3
-japan	1903-19 
-	1	2
-
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
-japan		1	
 russia	2011-20	1	4
-russia	1903-19 
-	1	3
-
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
-russia		1	
 norway	2011-20	1	1
 norway	1994-20	1	3
-norway	1903-19 
-	1	2
-
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
-norway		1	
 india	2011-20	1	2
 india	1994-20	1	2
-india	1903-19 
-	1	1
-
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
-india		1	
 sweden	1994-20	1	4
 sweden	2006-20	1	1
-sweden	1903-19 
-	1	1
-
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
-sweden		1	
 belgium	1994-20	1	3
 belgium	2006-20	1	2
-belgium	1903-19 
-	1	0
-
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
-belgium		1	
 ireland	2011-20	1	1
 ireland	1994-20	1	2
-ireland	1903-19 
-	1	1
-
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
-ireland		1	
 hungary	1994-20	1	1
 hungary	2006-20	1	1
-hungary	1903-19 
-	1	1
-
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
-hungary		1	
 israel	2006-20	1	2
-israel	1903-19 
-	1	1
-
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
-israel		1	
 iran	2011-20	1	2
-iran	1903-19 
-	1	0
-
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
-iran		1	
 china	2011-20	1	1
 china	1994-20	1	1
-china	1903-19 
-	1	0
-
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
-china		1	
 colombi	2006-20	1	2
-colombi	1903-19 
-	1	0
-
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
-colombi		1	
 greece	2011-20	1	1
 greece	2006-20	1	1
-greece	1903-19 
-	1	0
-
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
-greece		1	
 singapo	2006-20	1	2
-singapo	1903-19 
-	1	0
-
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-singapo		1	
-czechos	1903-19 
-	1	2
-
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
-czechos		1	
