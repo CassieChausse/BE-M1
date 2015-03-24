@@ -5,224 +5,520 @@ RESULTATS DU MARKOV CLUSTERING
 Cluster 0
 **********
 
-finch c
-donaldson a
-gabbett t
-white p
-sullivan sj
-lee h
-poulos rg
-newton jd
-ewing mt
-makdissi m
-davis g
-ullah s
+schack, thomas.
+ziemainz, heiko
+schmidt, ulf
+gubelmann, hanspeter.
+hackfort, dieter.
+kemper, reinhild
+schilling, guido
+kratzer, hannes
+hug, otto.
+neumann, gabriele.
+frester, rolf
+knisel, elke
+schmole, matthias
+alfermann, dorothee.
+stoll, o..
+lau, andreas
+achter, mathias
+teipel, dieter.
+vermeer, adri
+brehm w
+wagner p
+lobinger, babett.
+mickler, werner.
+moser, thomas.
+waldenmayer, denise
+pfeffer, ines
 
 Cluster 1
 **********
 
-kroshus e
-sherman rt
-thompson ra
-mccauley hl
-tancredi dj
-silverman jg
-decker mr
-austin sb
-miller e
+finch c
+donaldson a
+white p
+newton jd
+ewing mt
+makdissi m
+davis g
+sullivan sj
+mccrory p
+otago l
+saunders n
+romiti m
+ullah s
+poulos rg
+elliott b
+dvorak j
+meeuwisse w
+maughan r
+goulet c
+feldman d
+valois p
+lee h
 
 Cluster 2
 **********
 
-ntoumanis n
-gucciardi df
-lonsdale c
-guagliano jm
-rosenkranz rr
-kolt gs
-jackson b
-dimmock ja
-mallett cj
+clement d
+zakrajsek r
+lintunen t
+kamphoff c
+martin s
+crust, lee
+keegan, richard
+swann, christian
+piggott, david
+clough, peter j.
+perry, john
+earle, keith
+levy, andrew
+polman, remco c. j.
+nicholls, adam r.
+backhouse, susan h..
+marchant, david
+polman, remco
+booth l
+ekkekakis, panteleimon
 
 Cluster 3
 **********
 
-eime r
-payne w
-harvey jt
-casey m
-telford a
-mooney a
-young ja
-charity mj
+barth j
+mckeag d
+iverson gl
+echemendia rj
+mccrea m
+barr wb
+gioia ga
+sautter sw
+macciocchi sn
+broshek dk
+lovell mr
+moser rs
+schatz p
+collins mw
+freeman jr
+esfandiari a
+bailey, christopher m.
 
 Cluster 4
 **********
 
-guskiewicz k
-herring sa
-rivara fp
-schiff ma
-chrisman sp
-chung sk
+gould, d.
+peterson k
+greenleaf, christy
+medbery, russ
+dieffenbach, kristen
+damarjian, nicole
+petlichkoff, linda
+hodge, ken
+weinberg, robert
+jackson, allen
+yukelson, david
+richardson, peggy a.
+weiss, maureen r.
+martens r
+rose, russ
+loehr, j.
+finch, laura
 
 Cluster 5
 **********
 
-roi gs
-cicognani e
-mazzoni d
-totti v
-mosconi g
-nanni costa a
+cantu r
+baugh cm
+daneshvar dh
+kroshus e
+sherman rt
+thompson ra
+austin sb
+sossin k
+mccauley hl
+tancredi dj
+silverman jg
+decker mr
+miller e
+jones k
+anderson ha
 
 Cluster 6
 **********
 
-sekulic d
-zenic n
-uljevic o
-kondric m
-rodek j
+walters j
+martin, scott
+andersen, mark b.
+van raalte, j l
+brewer, britton w.
+linder, darwyn e.
+brewer, devon d.
+morris t
+spittle m
+perry, clark
+giacobbi, peter r., jr.
+omli j
+martin, andrew j.
+marsh, herbert w.
+anderson m
 
 Cluster 7
 **********
 
-visek aj
-blom lc
-harris bs
-harris b
+ntoumanis n
+gucciardi, daniel
+gordon s
+dimmock ja
+gucciardi df
+jackson b
+mallett, clifford
+mallett cj
+mahoney, john
+taylor im
+stebbings j
+spray cm
+wann, daniel l.
+miguel pa
 
 Cluster 8
 **********
 
-collins d
-martindale a
-martindale r
-nash c
+tenenbaum, gershon
+lidor, ronnie
+blumenstein, boris
+orbach, iris
+fogarty, gerard
+ziv, gal
+christensen, s.
+zach, sima.
+brackenridge, celia
+fasting, kari.
+johnson m
+crocker, peter r.e.
 
 Cluster 9
 **********
 
-boen f
-de cuyper b
-vande broek g
+butt j
+maynard, ian
+thomas, owen
+hays, kate
+hanton, sheldon
+jones, graham
+connaughton, declan
+mellalieu, stephen d.
+fleming, scott
+hill, denise m.
+matthews, nic
+shearer, david
 
 Cluster 10
 **********
 
-filho e
-tenenbaum g
-schinke rj
+hardy, l..
+woodman t
+beattie, stuart
+arthur ca
+eccles, david w.
+janelle, christopher m.
+le scanff, christine.
+naugle, kelly m.
+murphy, shane m.
+thomas, patrick r.
+nelson, d..
+jowdy, douglas p.
 
 Cluster 11
 **********
 
-aughey r
-billaut f
-gore cj
+tenenbaum g
+schinke rj
+torregrosa m
+cruz j
+pickard p
+schinke, robert j.
+filho e
+gershgoren l
+dietrich f
+shipherd am
+basevitch i
 
 Cluster 12
 **********
 
-davids k
-renshaw i
-araujo d
+mueller fo
+guskiewicz k
+marshall sw
+valovich mcleod tc
+herring sa
+chrisman sp
+rivara fp
+schiff ma
+chung sk
+pana a
 
 Cluster 13
 **********
 
-jowett s
-chan dk
-davis l
+johnson u
+stambulova, natalia
+ryba, tatiana v.
+wrisberg, craig a.
+loberg, lauren a.
+withycombe, jenny l.
+reed, ann
+simpson, duncan
+meisterjahn, rainer j.
+tashman, lauren s.
 
 Cluster 14
 **********
 
-hutzler y
-barak s
+si, gangyan
+samulski, dietmar
+statler, traci
+aoyagi, mark w.
+portenga, steven t.
+poczwardowski, artur
+sherman, clay p.
+henschen, keith
+gordin, richard d.
 
 Cluster 15
 **********
 
-elbin rj
-covassin t
+duda j
+balaguer i
+castillo i
+bartholomew k
+cumming j
+woodcock, charlotte
+holland, mark j. g.
+crespo m
+reid m
 
 Cluster 16
 **********
 
-siekanska m
-blecharz j
+hemmings b
+maynard, ian w.
+greenlees i
+thelwell, richard
+weston, neil
+stanton, neville
+thelwell rc
+manley a
 
 Cluster 17
 **********
 
-richards j
-foster c
+zaichkowsky, leonard
+zizzi, samuel
+blom, lindsey c.
+watson, jack
+downey, v. paul
+geer, john
+etzel, edward f.
+sato k
 
 Cluster 18
 **********
 
-macintyre t
-moran a
+pain m
+harwood cg
+mccarthy, paul j.
+jones, marc v.
+wylleman, p..
+reints, a.
+vanden auweele, y.
 
 Cluster 19
 **********
 
-merkel dl
-molony jt jr
+putukian m
+morse e
+goldman, scott
+sullivan, john p.
+carter, jennifer
+glick id
 
 Cluster 20
 **********
 
-stout jr
+covassin t
+elbin rj
+sarmiento k
+dickens y
+donohue b
+mitchko j
 
 Cluster 21
 **********
 
-maszczyk a
+magyar, t. michelle
+chase m
+myers n
+feltz d
+wolfe ew
+hayashi, susan w.
 
 Cluster 22
 **********
 
+johnston k
+loughead tm
+bloom ga
+sabiston cm
 eys ma
+bray, steven r.
 
 Cluster 23
 **********
 
-pollock n
+mewes, nadine.
+reimers, carl d.
+broocks a
+bandelow b
+pekrun g
 
 Cluster 24
 **********
 
-martin ginis ka
+roberts wo
+armstrong le
+casa dj
+moran ds
+kraemer w
 
 Cluster 25
 **********
 
-fletcher d
+strauss b
+hagemann, norbert.
+baker j
+cote j
+hancock d
 
 Cluster 26
 **********
 
-sabiston cm
+seiler r
+allmer, henning.
+schwenkmezger, peter.
+birrer d
+morgan g
 
 Cluster 27
 **********
 
-russell a
+mahoney m
+townsend m
+whelan, james p.
+meyers, andrew w.
+suinn, richard m..
 
 Cluster 28
 **********
 
-carless d
+leffingwell, thad r.
+smith, ronald e.
+smoll, frank l.
+christensen, donald s.
+malina, robert m.
 
 Cluster 29
 **********
 
-hancock d
+jowett s
+chan dk
+vallerand rj
+lafreniere ma
+davis l
 
 Cluster 30
 **********
 
-mesquita i
+hanrahan, stephanie
+kellmann, m..
+kallus kw
+kallus, konrad w..
+wegner, manfred.
+
+Cluster 31
+**********
+
+hall c
+jedlic b
+hall n
+pope jp
+harwood, chris
+
+Cluster 32
+**********
+
+lonsdale c
+kolt gs
+guagliano jm
+rosenkranz rr
+wajswelner h
+
+Cluster 33
+**********
+
+petrie, trent a.
+hayslip, bert, jr.
+harmison, robert j.
+deiters, jay
+
+Cluster 34
+**********
+
+gabbett t
+farrow d
+newton, maria
+burnett a
+
+Cluster 35
+**********
+
+smith g
+sallis re
+castellani jw
+young aj
+
+Cluster 36
+**********
+
+gabbe bj
+cameron p
+andrew ne
+wolfe r
+
+Cluster 37
+**********
+
+grove jr
+eklund r
+heard np
+ponnusamy v
+
+Cluster 38
+**********
+
+landers, daniel m.
+arent, shawn m.
+etnier, jennifer l.
+
+Cluster 39
+**********
+
+langenkamp, heiner.
+droste, ingolf
+gasse, michael
+
+Cluster 40
+**********
+
+prapavessis h
+maddison, ralph
+leith l

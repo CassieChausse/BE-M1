@@ -1,0 +1,106 @@
+RESULTATS DU MARKOV CLUSTERING
+******************************
+
+
+Cluster 0
+**********
+
+usa
+germany
+uk
+france
+switzerland
+canada
+denmark
+australia
+spain
+netherlands
+norway
+sweden
+belgium
+ireland
+
+Cluster 1
+**********
+
+czechoslovakia
+
+Cluster 2
+**********
+
+singapore
+
+Cluster 3
+**********
+
+greece
+
+Cluster 4
+**********
+
+colombia
+
+Cluster 5
+**********
+
+china
+
+Cluster 6
+**********
+
+iran
+
+Cluster 7
+**********
+
+israel
+
+Cluster 8
+**********
+
+hungary
+
+Cluster 9
+**********
+
+india
+
+Cluster 10
+**********
+
+russia
+
+Cluster 11
+**********
+
+japan
+
+Cluster 12
+**********
+
+croatia
+
+Cluster 13
+**********
+
+poland
+
+Cluster 14
+**********
+
+austria
+
+Cluster 15
+**********
+
+turkey
+
+Cluster 16
+**********
+
+italy
+
+Cluster 17
+**********
+
+new-zealand
