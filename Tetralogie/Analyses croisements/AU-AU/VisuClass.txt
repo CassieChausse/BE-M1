@@ -1,0 +1,228 @@
+RESULTATS DU MARKOV CLUSTERING
+******************************
+
+
+Cluster 0
+**********
+
+finch c
+donaldson a
+gabbett t
+white p
+sullivan sj
+lee h
+poulos rg
+newton jd
+ewing mt
+makdissi m
+davis g
+ullah s
+
+Cluster 1
+**********
+
+kroshus e
+sherman rt
+thompson ra
+mccauley hl
+tancredi dj
+silverman jg
+decker mr
+austin sb
+miller e
+
+Cluster 2
+**********
+
+ntoumanis n
+gucciardi df
+lonsdale c
+guagliano jm
+rosenkranz rr
+kolt gs
+jackson b
+dimmock ja
+mallett cj
+
+Cluster 3
+**********
+
+eime r
+payne w
+harvey jt
+casey m
+telford a
+mooney a
+young ja
+charity mj
+
+Cluster 4
+**********
+
+guskiewicz k
+herring sa
+rivara fp
+schiff ma
+chrisman sp
+chung sk
+
+Cluster 5
+**********
+
+roi gs
+cicognani e
+mazzoni d
+totti v
+mosconi g
+nanni costa a
+
+Cluster 6
+**********
+
+sekulic d
+zenic n
+uljevic o
+kondric m
+rodek j
+
+Cluster 7
+**********
+
+visek aj
+blom lc
+harris bs
+harris b
+
+Cluster 8
+**********
+
+collins d
+martindale a
+martindale r
+nash c
+
+Cluster 9
+**********
+
+boen f
+de cuyper b
+vande broek g
+
+Cluster 10
+**********
+
+filho e
+tenenbaum g
+schinke rj
+
+Cluster 11
+**********
+
+aughey r
+billaut f
+gore cj
+
+Cluster 12
+**********
+
+davids k
+renshaw i
+araujo d
+
+Cluster 13
+**********
+
+jowett s
+chan dk
+davis l
+
+Cluster 14
+**********
+
+hutzler y
+barak s
+
+Cluster 15
+**********
+
+elbin rj
+covassin t
+
+Cluster 16
+**********
+
+siekanska m
+blecharz j
+
+Cluster 17
+**********
+
+richards j
+foster c
+
+Cluster 18
+**********
+
+macintyre t
+moran a
+
+Cluster 19
+**********
+
+merkel dl
+molony jt jr
+
+Cluster 20
+**********
+
+stout jr
+
+Cluster 21
+**********
+
+maszczyk a
+
+Cluster 22
+**********
+
+eys ma
+
+Cluster 23
+**********
+
+pollock n
+
+Cluster 24
+**********
+
+martin ginis ka
+
+Cluster 25
+**********
+
+fletcher d
+
+Cluster 26
+**********
+
+sabiston cm
+
+Cluster 27
+**********
+
+russell a
+
+Cluster 28
+**********
+
+carless d
+
+Cluster 29
+**********
+
+hancock d
+
+Cluster 30
+**********
+
+mesquita i
