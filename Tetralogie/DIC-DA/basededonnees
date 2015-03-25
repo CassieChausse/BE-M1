@@ -1,0 +1,6 @@
+DIC -
+# descripteurs des champs de la base PUBMED format MEDLINE TXT #
+# nom      abrev  champ       visible  Separateurs #
+DIC          DIC    DIC        True   -"s,"s."s:"s;"s?"sb"s)"s]"'",".":";"?"b"(")"["]"!"$"§"%"0"1"2"3"4"5"6"7"8"9"<">"="€"/"""*"&"
+Date	     DA     DA         True   ;"-"b".","ORD3"(PsycINFO)"
+FIN          FIN    FIN        FIN    -"
