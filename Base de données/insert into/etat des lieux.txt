@@ -1,3 +1,4 @@
 Pleuplé :
-* Tous les simples (je crois)
-* MC_MC //TODO ! trop long
+* AB OK ! 24175 lignes
+* AU //TODO .sql prêt
+* MC_MC //TODO à la fin des peuplements simples
