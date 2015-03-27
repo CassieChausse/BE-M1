@@ -1,4 +1,9 @@
 Pleuplé :
 * AB OK ! 24175 lignes
-* AU //TODO .sql prêt
+* AU OK ! 4901 lignes
+* LA OK ! 26 lignes
+* MC OK ! 5645 lignes - 5918 ??
+* PAYS OK ! 44 lignes
+* TI OK ! 5066 lignes - 5077 ??
+* AU_AU PB DE CLE PARENT !  lignes - 3184
 * MC_MC //TODO à la fin des peuplements simples
