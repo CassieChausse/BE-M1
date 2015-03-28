@@ -34,3 +34,9 @@ FROM PAYS_DA
 ORDER BY occurences_PAYS_DA desc 
 ) 
 WHERE rownum <=10
+
+-- Pays qui ont des publi que à partir de 2011 si yen a bcp prendre les 10 qui ont le plus publié
+SELECT pays, occurences_pays_da as "Nombre de publication"
+FROM PAYS_DA
+WHERE DA_PD = '2011-2015'
+ORDER BY occurences_PAYS_DA DESC
