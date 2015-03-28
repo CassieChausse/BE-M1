@@ -40,3 +40,9 @@ SELECT pays, occurences_pays_da as "Nombre de publication"
 FROM PAYS_DA
 WHERE DA_PD = '2011-2015'
 ORDER BY occurences_PAYS_DA DESC
+
+SELECT pays, SUM(occurences_PAYS_DA) as "Nombre de publication"
+FROM PAYS_DA
+WHERE rownum <=30
+GROUP BY pays
+ORDER BY "Nombre de publication" DESC
